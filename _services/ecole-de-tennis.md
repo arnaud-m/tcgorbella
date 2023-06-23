@@ -1,12 +1,19 @@
 ---
-title: "Mergers"
-date: 2019-02-28T15:15:34+10:00
+title: "École de tennis"
+# date: 2019-01-28T15:15:26+10:00
 weight: 3
 ---
+L’école de tennis est ouverte aux enfants de 4 à 17 ans du 1er septembre au 30 juin suivant pendant les périodes scolaires.
+<!--more-->
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+
+Les enfants sont répartis par groupe d’âges et de niveaux en début d'année.
+
+
+- TCG-Fiche-Inscription-EcoleDeTennis -2022-23
+- modele_attestation_mineur.pdf
+
+
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
