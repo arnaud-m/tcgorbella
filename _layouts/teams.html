@@ -30,7 +30,7 @@ bodyClass: "page-teams"
                 </div>
                 {% endif %}
                 <div class="team-meta">
-                    <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
+                    <h2 class="team-name">{{ team.title }}</h2>
                     <p class="team-description">{{ team.jobtitle }}</p>
                     {% if team.email %}
                     <a target="_blank" href="mailto:{{ team.email }}" rel="noreferrer">{{ team.email }}</a>
@@ -52,7 +52,7 @@ bodyClass: "page-teams"
                 </div>
                 {% endif %}
                 <div class="team-meta">
-                    <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
+                    <h2 class="team-name" css="color:$primary">{{ team.title }}</h2>
                     <p class="team-description">{{ team.jobtitle }}</p>
                     {% if team.email %}
                     <a target="_blank" href="mailto:{{ team.email }}" rel="noreferrer">{{ team.email }}</a>
