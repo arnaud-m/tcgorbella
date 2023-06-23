@@ -1,0 +1,57 @@
+[
+    {
+    title: "Thomas Castagna",
+    jobtitle: "Enseignant tout public",
+    image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg",
+    email: "thomas@tcgorbella.fr",
+    content: "Biographie courte",
+    promoted: "true",
+    weight: 1
+},
+    {
+    title: "Matthias Corre",
+    jobtitle: "Assistant Moniteur",
+    email: "matthias@tcgorbella.fr",
+    promoted: "true",
+    weight: 2
+},
+    {
+    title: "Arnaud Malapert",
+    jobtitle: "Président",
+    email: "tc.gorbella@fft.fr",
+    weight: 3
+},
+    {
+    title: "Sylvain Bernard",
+    jobtitle: "Trésorier",
+    email: "sylvain@tcgorbella.fr",
+    weight: 4
+},
+    {
+    title: "Henry Corre",
+    jobtitle: "Bureau",
+    weight: 5
+},
+    {
+    title: "Philippe Huot",
+    jobtitle: "Bureau",
+    weight: 6
+},
+    {
+    title: "Marc Petitjean",
+    jobtitle: "Bureau",
+    weight: 7
+},
+    {
+    title: "Josiane Samuelson",
+    jobtitle: "Bureau",
+    weight: 8
+},
+    {
+    title: "Mourad Taiati",
+    jobtitle: "Bureau",
+    weight: 9
+}
+
+
+]
