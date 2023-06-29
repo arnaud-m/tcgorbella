@@ -1,87 +1,59 @@
 ---
-title: About
+title: À propos
 layout: page
-description: About
+description: À propos du Tennis Club Gorbella
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
-# Objectives
+Chers membres, chers parents,
 
-Financial accounting and financial reporting are often used as synonyms.
+Bienvenue sur le site du Tennis Club Gorbella.
+Nous sommes un petit club familial de terre-battue, qui existe à Nice Nord, sur le boulevard Gorbella depuis les années 1930 !
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Privilégier l’apprentissage des touts petits par le plaisir et le sport et les amener vers la compétition est un de nos axes majeurs, ainsi que la promotion du tennis féminin et les animations inter-générations.
 
-## Relevance
+La communication entre les dirigeants, les adhérents et les parents des enfants de l’Ecole de tennis est très importante pour nous. Nous sommes donc très présents via notre site internet et notre groupe facebook. Ainsi, vous pouvez être informés tous les jours des actualités du club, du programme des animations, les dates des événements et toutes les informations concernant l’école de tennis. N’hésitez pas à vous y inscrire. Le “Bureau” et moi-même espérons que ces informations vous permettront de participer à notre vie associative et de prendre plaisir à partager de bons momets au sein de votre club.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Que vous soyez joueur débutant ou confirmé, vous trouverez des partenaires sympathiques de votre niveau. Tout au long de l’année, nous vous inviterons à des activités ouvertes à tout âge, alliant convivialité, sportivité, et partage. Notre club participe avec succès à toutes les compétitions départementales dans des championnats interclubs de 8 à plus de 70 ans.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Entouré d’une équipe de bénévoles dévoués, disponibles ayant toujours le souci de mieux vous satisfaire, je m’attache, en tant que Président, à faire respecter, en permanence, les valeurs de notre sport et de notre club : l’esprit sportif, le respect dans un cadre accueillant, familial et convivial. L’ensemble des membres du Bureau, ainsi que notre équipe enseignante dirigée par notre moniteur , Thomas, se joignent à moi pour vous souhaiter une agréable saison sur nos superbes terrains en terre-battue, que nous nous efforçons d’entretenir au mieux.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Plus que jamais le tennis doit être un sport “réservé à tous” et nous nous efforçons, chaque jour, d’y contribuer.
+Soyez les bienvenus au TC Gorbella,
 
-## Faithful Representation
+Hervé Dufau\\
+Président de 2011 à 2021
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 
-## Enhancing Qualitative Characteristics
+![Le TC Gorbella en 1937](/images/photos/tcgorbella-1937-scan.jpg)
 
-### Verifiability
+## Le TC Gorbella, un club centenaire
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Importé par les Anglais en 1798, le lawn-tennis (rapidement appelé tennis) est à l’époque un sport mondain. C’est pourquoi il rencontre un vrai succès sur la Côte d’Azur. Jusqu’en 1895, le Sud de la France sera le “cœur” du tennis mondial : “La French Riviera”. Les clubs niçois ont alors la part belle, et notamment un peu plus tard le Tennis Club Gorbella (TCG), au début du 20ème siècle.
 
-### Comparability
+Le TCG (Tennis Club Gorbella) est une association loi 1901 apparue au Journal Officiel le 9 janvier 1985, cependant sa date de création remonte à bien avant, et on peut affirmer qu’elle date d’au moins 1937, comme en atteste la photo ci-dessus. Il n’y avait alors que deux terrains de tennis (en terre battue) à côté d’un grand rond-point et d’un terrain vague. Selon les plus anciens adhérents du club, ce terrain vague est devenu un jardin d’enfants, avant de devenir plus tard un troisième terrain de tennis. Il n’y avait alors pas de problème pour accéder au TCG, plus tard furent bâtis les immeubles que nous connaissons et qui entourent le club.
+Le club était alors sous la tutelle de l’ASPTT section tennis, et n’a pris son nom actuel que fin 1984. (l’ASPTT Tennis existe toujours, à Saint Laurent du Var).
+Sous l’impulsion de Jacques Dufau, les membres du bureau d’alors ont décidé de se séparer de l’ASPTT lorsque celle-ci a déménagé son siège social à Saint Laurent du Var en délaissant complètement la section de Nice. Jacques Dufau, René Lafont, Henry Robert, Gilbert Maria et bien d’autres ont fait entendre leur voix auprès du maire de Nice, Jacques Médecin. C’est alors que le club est devenu officiellement le Tennis Club Gorbella sous sa forme juridique actuelle, le 9 janvier 1985.
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Le dernier président de cette époque était M. Fritz. Les responsables emblématiques et piliers du club à cette époque et qui ne sont plus au club aujourd’hui : MM. Guillermain, Fallour, Cottarel, ‘Gé’ Guedj, Claude Camps, Robert Grosse, Koi Vuda ‘Tchoi’, JP Marcou, JM Grosse, P. Périchon, G.Maria, JP Bordier, Guy Ozanne, D. Hugard, sans oublier ‘Dodo’, Simone et bien d’autres…
+Le premier président du TC Gorbella a été Jacques Dufau, de 1985 à 1996, auquel a succédé René Lafon de 1997 à 2011 puis Hervé Dufau. Pendant cette période, les piliers étaient Monica et François, le prof était Charly LePesquer, qui est retourné en Bretagne depuis et a laissé la place à Sébastien en 2007, rejoint par Thomas en 2011.
+### Un club en danger
 
-### Understandability
+Depuis, le club a failli disparaître. Le projet ambitieux d’une tour de 8 étages, avec des terrains de tennis à son sommet, était né et devait prendre place à l’emplacement actuel du TCG. Les nombreuses pétitions des habitants des immeubles (et sûrement d’autres raisons) ont fait repousser le projet… à quelques centaines de mètres du club, là où se trouve maintenant une des structures du TC Nice.
+Le TCG a failli disparaître de nouveau il y a quelques années, en effet, sur les premiers plans de la future ligne de tramway (la ligne actuelle) il devait y avoir un parking pour voiture à chaque station de tramway. Un de ces parkings devait se trouver à l’emplacement du TC Gorbella.
+Ce projet a avorté car Paul Bounin (et son frère), qui était le propriétaire du terrain où se trouve le TC Gorbella, a cédé à la ville de Nice ce terrain à la condition qu’il soit utilisé à des fins sportives uniquement.
+### Un club en développement
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+Depuis quelques années un vent nouveau souffle au TCG avec une nouvelle équipe dirigeante et pédagogique, et le club ne cesse de s’affirmer dans sa volonté de développement, que ce soit par la qualité de l’enseignement, de ses installations rénovées en 2011 (photo ci-dessous), de l’accueil, de la communication avec son nouveau logo et sa présence sur les réseaux sociaux (Facebook), par le développement du tennis jeune, et maintenant adulte, et tout particulièrement féminin.
+La bonne santé du club se traduit notamment par son nombre constant d’adhérents, ses équipes, qu’elles soient jeunes, adultes, masculines, féminines, mixtes… Et par ses nombreuses animations générationnelles et intergénérationnelles qui contribuent tout le long à la convivialité du TC Gorbella.
 
----
+Le temps passe, certains restent, d’autres nous quittent, mais l’ambiance et l’esprit familial du club perdure. Merci à tous de contribuer à l’entretenir!
+### To be continued…
 
-## Statement of cash flows
+Ce bref historique a vu le jour notamment grâce à l’aide des plus anciens adhérents du TCG , merci à Alphonse Troïa, Jacques Dufau , Georges Dubois, Hervé Dufau et René Lafon pour leur participation, Vous pouvez trouver ces piliers du club, encore très actifs et incontournables pour le club et, si cela vous intéresse, n’hésitez pas à les questionner pour approfondir votre connaissance du club.
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Thomas Castagna
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+![Le TC Gorbella en 2018](/images/photos/tcg-2018-06-23-B.jpg)
