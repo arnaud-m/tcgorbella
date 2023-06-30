@@ -4,11 +4,11 @@ title: "Agenda"
 weight: 1
 ---
 
-Le TC gorbella partage un [agenda google](https://calendar.google.com/calendar/embed?src=076rkptkh872flvptaafpd01jg%40group.calendar.google.com&ctz=Europe%2FParis) qui indiquent les activités du club et l'occupation des courts.
+Le TC gorbella partage un [agenda google](https://calendar.google.com/calendar/embed?src=076rkptkh872flvptaafpd01jg%40group.calendar.google.com&ctz=Europe%2FParis) qui indiquent les activités du club et l'occupation des terrains.
 <!--more-->
 
 Le calendrier donne entre autres le planning de l'école de tennis, des animations, et des compétitions.
-Il permet de comprendre facilement les périodes où les courts sont indisponibles pour les adhérents et passagers.
+Il permet de comprendre facilement les périodes où les terrains sont indisponibles pour les adhérents et passagers.
 
 L'occupation des courts est indiquée dans le titre d’un événement de la manière suivante : TITRE (COURTS).
 
