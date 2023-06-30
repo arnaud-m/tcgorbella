@@ -5,17 +5,23 @@ main:
   - name: "Équipe"
     url: "/team/"
     weight: 3
+  - name: "Agenda"
+    url: "https://calendar.google.com/calendar/embed?src=076rkptkh872flvptaafpd01jg%40group.calendar.google.com&ctz=Europe%2FParis"
+    weight: 4
   - name: "À propos"
     url: "/about/"
-    weight: 4
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"
     url: "/"
     weight: 1
+  - name: "Agenda"
+    url: "https://calendar.google.com/calendar/embed?src=076rkptkh872flvptaafpd01jg%40group.calendar.google.com&ctz=Europe%2FParis"
+    weight: 2
   - name: "Contact"
     url: "/contact/"
-    weight: 2
+    weight: 3
