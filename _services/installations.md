@@ -34,7 +34,7 @@ Les joueurs doivent obligatoirement procéder à la remise en état du terrain e
 
 
 ## Priorités
-Les activités suivantes sont prioritaires selon les horaires affichés à l’avance.
+**Les activités ci-dessous sont prioritaires selon les horaires indiqués dans l'[agenda](/services/agenda/) du club.**
 - École de tennis : en période scolaire, les courts sont réservés le mercredi toute la journée ainsi que les soirs de semaines.
   En période de vacances scolaires, certaines séances peuvent exceptionnellement être rattrapées.
 - Les séances de cours collectifs pour nos partenaires IME/ITEP, dans le cadre de nos initiatives de soutien au handicap (en semaine).
