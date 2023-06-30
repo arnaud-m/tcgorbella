@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Club FFT",
+    "description": "Club affilié à la Fédération Française de Tennis.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/noun-tennis-4435352.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Installations",
+      "description": "Trois courts extérieurs éclairés en terre battue traditionnelle.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/noun-tennis-field-1188382.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Équipe pédagogique",
+    "description": "2 enseignants compétents et sympathiques.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/noun-tennis-4337316.svg",
       "width": 80,
       "height": 80
     }
