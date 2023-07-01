@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: TC Gorbella
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Le site web du Tennis Club Gorbella.
 intro_image: "images/photos/tcg-2018-06-23-C.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
