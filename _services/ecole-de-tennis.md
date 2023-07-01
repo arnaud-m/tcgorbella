@@ -7,87 +7,36 @@ L’école de tennis est ouverte aux enfants de 4 à 17 ans du 1er septembre au 
 <!--more-->
 
 
-Les enfants sont répartis par groupe d’âges et de niveaux en début d'année.
+Les jeunes sont répartis par groupe d’âges et de niveaux en début d'année.
 
 
-- TCG-Fiche-Inscription-EcoleDeTennis -2022-23
-- modele_attestation_mineur.pdf
+## Licence FFT
+Ils sont obligatoirement licenciés à la Fédération Française de Tennis.
+Ils bénéficient, à ce titre, d’une assurance les couvrant lors d’un accident.
+En aucun cas, une inscription ne pourra être remboursée, toute ou partie, pour quelque raison que ce soit (arrêt maladie, blessures, départ).
 
 
+## Inscription
+Pour être retenue, l’inscription doit être complète, à savoir :
+- une fiche d’inscription complétée (obligatoire pour les nouveaux) ;
+- pour les mineurs, le dispositif d'attestation pour le questionnaire de santé QS-SPORT Cerfa N°15699*01 ([questionnaire](/assets/adhesion/attestation-ou-certificat-medical.pdf)) est en vigueur ;
+- ainsi que le règlement de la cotisation annuelle selon modalités demandées par le club.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+## Modalités de règlement
 
-Financial accounting and financial reporting are often used as synonyms.
+Les modalités de règlement acceptées sont les suivantes :
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+- la plus simple pour le club est une inscription avec [Ten'Up](https://tenup.fft.fr/club/62060274/offres) ;
+  - Le jeune ou un parent doit avoir un compte Ten'Up.
+  - On règle la totalité de l'inscription en une ou trois échéances.
 
-## Relevance
+<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Inscrivez-vous sur Ten'Up</a>
+{: style="text-align: center;"}
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+- en espèces ;
+- en un maximum de trois chèques datées de l'inscription ;
+- en ligne avec [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis) en une ou trois échéances.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis">Inscrivez-vous sur HelloAsso</a>
+{: style="text-align: center;"}
