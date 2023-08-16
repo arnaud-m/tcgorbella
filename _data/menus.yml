@@ -6,7 +6,7 @@ main:
     url: "/team/"
     weight: 3
   - name: "Agenda"
-    url: "https://calendar.google.com/calendar/embed?src=076rkptkh872flvptaafpd01jg%40group.calendar.google.com&ctz=Europe%2FParis"
+    url: "https://calendar.google.com/calendar/embed?src=076rkptkh872flvptaafpd01jg%40group.calendar.google.com&ctz=Europe%2FParis&mode=WEEK"
     weight: 4
   - name: "À propos"
     url: "/about/"
@@ -20,7 +20,7 @@ footer:
     url: "/"
     weight: 1
   - name: "Agenda"
-    url: "https://calendar.google.com/calendar/embed?src=076rkptkh872flvptaafpd01jg%40group.calendar.google.com&ctz=Europe%2FParis"
+    url: "https://calendar.google.com/calendar/embed?src=076rkptkh872flvptaafpd01jg%40group.calendar.google.com&ctz=Europe%2FParis&mode=WEEK"
     weight: 2
   - name: "Contact"
     url: "/contact/"

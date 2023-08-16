@@ -30,7 +30,7 @@ Pour les mineurs, le dispositif d'attestation pour le questionnaire de santé QS
 ## Carte passager
 
 Un accès aux terrains est prévu pour les passagers non adhérents.
-Les adhérents ont également la possibilité d'inviter une personne extérieure au club à venir jouer avec eux.
+Les adhérents ont également la possibilité d'inviter une personne extérieure au club à venir jouer avec eux avec une carte passager.
 Le club dégage néanmoins toutes responsabilités concernant les passagers : accident, dégradation, vol...
 
 **La carte passager est uniquement disponible sur [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/boutiques/carte-passager).**\

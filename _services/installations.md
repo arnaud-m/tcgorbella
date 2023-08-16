@@ -13,8 +13,8 @@ Les adhérents peuvent accéder au club avec un badge ou le digicode.
 Le badge est disponible pour chaque adhérent après versement d’une caution.
 Le code est communiqué aux adhérents et aux passagers.
 
-Les derniers utilisateurs des installations du club devront veiller avant leur départ, à la fermeture des lieux ceci afin d’assurer le bon fonctionnement du club et lui éviter des dépenses. inutiles.
-Il est expressément demandé de bien fermer le portail d’entrée.
+Les derniers utilisateurs des installations du club devront veiller avant leur départ, à la fermeture des lieux ceci afin d’assurer le bon fonctionnement du club et lui éviter des dépenses inutiles.
+Il est expressément demandé d'éteindre les lumières et de bien fermer le portail d’entrée.
 
 ## Accès aux terrains
 
@@ -30,7 +30,9 @@ Les joueurs doivent obligatoirement procéder à la remise en état du terrain e
 - Passage du tapis  ;
 - Balayage des lignes ;
 - Arrosage (sauf en hiver ou instruction contraire) ;
-- Récuperation des cartes au tableau.
+- Récuperation des cartes au tableau ;
+- Extinction des lumières.
+
 
 
 ## Priorités

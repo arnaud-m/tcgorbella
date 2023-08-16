@@ -34,7 +34,7 @@ Les modalités de règlement acceptées sont les suivantes :
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Inscrivez-vous sur Ten'Up</a>
 {: style="text-align: center;"}
 
-- en espèces ;
+- en espèces en une échéance ;
 - en un maximum de trois chèques datés de l'inscription ;
 - en ligne avec [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis) en une ou trois échéances.
 
