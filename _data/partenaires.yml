@@ -1,0 +1,34 @@
+- name: Fédération Française de Tennis
+  img: federation-francaise-de-tennis.png
+  website: https://www.fft.fr/
+  alt: Fédération Française de Tennis
+
+- name: Ville de Nice
+  img: ville-de-nice.png
+  website: https://www.nice.fr/
+  alt: Ville de Nice
+
+- name: Département des Alpes-Maritimes
+  img: departement-des-alpes-maritimes.png
+  website: https://www.departement06.fr/
+  alt: Département des Alpes-Maritimes
+
+- name: Technifibre
+  img: technifibre.svg
+  website: https://www.tecnifibre.com/
+  alt: Technifibre
+
+- name: Akorimmo
+  img: akorimmo.png
+  website: https://www.akorimmo.com/
+  alt: Akorimmo
+
+- name: La Fenêtre Niçoise Fenêtrier VEKA
+  img: la-fenetre-nicoise.png
+  website: http://la-fenetre-nicoise.fr/
+  alt: La Fenêtre Niçoise Fenêtrier VEKA
+
+- name: Mobisport Concept
+  img: mobisport-concept.webp
+  website: https://www.mobisportconcept.com/
+  alt: Mobisport Concept

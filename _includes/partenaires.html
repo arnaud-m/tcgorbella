@@ -1,0 +1,18 @@
+<!-- Partenaires -->
+{% if site.data.partenaires %}
+<div class="content">
+    <div class="container pt-6 pb-6 pb-md-10">
+        <div class="row justify-content-center">
+            <h2>Nos partenaires</h2>
+        </div>
+        <div class="row justify-content-center">
+            {% for post in site.data.partenaires %}
+            <div class="col-12 col-md-6 col-lg-4 mb-2">
+                <a href="{{ post.website }}" class="portfolio-link" data-toggle="modal" target="_blank">
+                    <img src='{{ post.img | prepend: "/images/partenaires/" | relative_url }}' class="sponsor-img img-responsive img-centered" alt="{{ post.alt }}" style="{{ post.style }}"></a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endif %}
