@@ -6,6 +6,8 @@ weight: 1
 Trois courts extérieurs éclairés en terre battue traditionnelle à côté du tramway “Gorbella” avec vestiaires, douches, et club-house.
 <!--more-->
 
+![Vue du club depuis le boulevard Gorbella](/images/photos/tcg-2018-06-23-B.jpg)
+
 ## Accès au club
 
 **Le club est ouvert tous les jours de 8h à 21h30.** \\

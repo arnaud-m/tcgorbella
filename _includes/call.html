@@ -7,10 +7,17 @@
         <div class="call-phone"><strong>Téléphone : </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
     {% if site.data.contact.email %}
-    <div class="call-email"><strong>Email : </strong>
-      <a href="mailto:{{ .site.data.contact.email }}">
-        {{ site.data.contact.email }}
-      </a>
+    <div class="call-email"><strong>Email du club : </strong>
+        <a href="mailto:{{ .site.data.contact.email }}">
+            {{ site.data.contact.email }}
+        </a>
+    </div>
+    {% endif %}
+    {% if site.data.contact.email-edt %}
+    <div class="call-email"><strong>Email de l'école de tennis : </strong>
+        <a href="mailto:{{ .site.data.contact.email-edt }}">
+            {{ site.data.contact.email-edt }}
+        </a>
     </div>
     {% endif %}
   </div>
