@@ -29,22 +29,22 @@
     {
     title: "Henry Corre",
     jobtitle: "Bureau",
-    weight: 5
+    weight: 6
 },
     {
     title: "Philippe Huot",
     jobtitle: "Bureau",
-    weight: 6
+    weight: 7
 },
     {
     title: "Marc Petitjean",
     jobtitle: "Bureau",
-    weight: 7
+    weight: 8
 },
     {
     title: "Josiane Samuelson",
-    jobtitle: "Bureau",
-    weight: 8
+    jobtitle: "Secrétaire générale",
+    weight: 5
 },
     {
     title: "Mourad Taiati",
