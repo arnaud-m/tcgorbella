@@ -24,16 +24,21 @@ bodyClass: "page-home"
 <!-- services -->
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
-    <div class="row justify-content-start">
+      <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
       {% for service in site.services limit: limit %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
+        <div class="col-12 col-md-4 mb-1">
+            <div class="service service-summary">
+                {% if service.weight > 0%}
+                {% assign service-class = "service-content" %}
+                {% else  %}
+                {% assign service-class = "service-content service-alerted-content" %}
+                {% endif  %}
+          <div class="{{ service-class }}">
             <h2 class="service-title">
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
             </h2>
-            <p>{{ service.excerpt | markdownify | strip_html | truncate: 150 }}</p>
+            <p>{{ service.excerpt | markdownify | strip_html | truncate: 200 }}</p>
           </div>
         </div>
       </div>
