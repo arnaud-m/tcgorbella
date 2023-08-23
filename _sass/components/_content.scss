@@ -66,21 +66,39 @@
     border-bottom: 1px solid $white-offset;
   }
   table {
+
     width: 100%;
     margin-top: 30px;
     margin-bottom: 30px;
     th,
+
     td {
       padding: 5px;
       vertical-align: top;
       border-top: 1px solid $white-offset;
     }
     thead th {
+      color: #fff;
+      background-color: $primary;
       vertical-align: bottom;
-      border-bottom: 1px solid $white-offset;
+      border-bottom: none;
       text-align: left;
       font-weight: bold;
     }
+
+    tbody tr:nth-of-type(even) {
+      background-color: $white-offset;
+    }
+
+    tbody tr:last-of-type {
+      border-bottom: 2px solid $primary;
+    }
+
+    tbody tr:active-row {
+      font-weight: bold;
+      color: $primary;
+    }
+
     tbody + tbody {
       border-top: 1px solid $white-offset;
     }

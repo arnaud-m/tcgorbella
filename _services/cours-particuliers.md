@@ -13,34 +13,34 @@ Il vous assiste aussi pour la mise en relation avec des joueurs de même niveau 
 
 Contactez directement Thomas pour tout renseignement complémentaire.
 
-## Le cours individuel
 
-Idéal pour travailler un aspect précis du tennis (coup droit, revers, service, volée, etc) et progresser significativement sur des objectifs personnels.
+Le **cours individuel** est idéal pour travailler un aspect précis du tennis (coup droit, revers, service, volée, etc) et progresser significativement sur des objectifs personnels.
 
-|                  | 1 heure | 5 heures | 10 heures |
+| Cours individuel | 1 heure | 5 heures | 10 heures |
 |------------------|:-------:|:--------:|:---------:|
 | **Adhérent**     | 33€     | 160€     | 300€      |
 | **Non adhérent** | 35€     | 170€     | 315€      |
 
-## Le cours à 2
 
-Sur la même base que le cours individuel, progressez rapidement avec un ou une partenaire de votre choix.
+Le **cours à deux** fonctionne sur la même base que le cours individuel, progressez rapidement avec un ou une partenaire de votre choix.
 
-|                  | 1 heure | 5 heures | 10 heures |
-|------------------|:-------:|:--------:|:---------:|
-| **Adhérent**     | 20€/p   | 95€/p    | 185€/p    |
-| **Non adhérent** | 22,5€/p | 105€/p   | 200€/p    |
+| Cours à deux     | 1 heure     | 5 heures    | 10 heures    |
+|------------------|:-----------:|:-----------:|:------------:|
+| **Adhérent**     | 20€ / pers. | 95€ / pers. | 185€ / pers. |
+| **Non adhérent** | 22,5€/p     | 105€/p      | 200€/p       |
 
-## Le cours collectif
 
-Par groupe de 4 à 8 personnes, retrouvez un enseignement individualisé couplé au partage et à la convivialité. Les tarifs incluent une séance hebdomadaire (1h30) pendant les périodes scolaires d'octobre à juin.
 
-|                  | 27 séances |
+Le **cours collectif** fonctionne avec un groupe de 4 à 8 personnes réparties sur un ou plusieurs terrains.
+Il y a une séance hebdomadaire (1h30) pendant les périodes scolaires d'octobre à juin.
+Retrouvez un enseignement individualisé couplé au partage et à la convivialité.
+
+| Cours Collectif  | 27 séances |
 |------------------|:----------:|
 | **Adhérent**     | 320€       |
 | **Non adhérent** | 350€       |
 
-## Remarques
+
 
 - Les tarifs n'incluent pas la licence FFT obligatoire.
 - Les forfaits 10 heures et collectifs peuvent être réglés en trois échéances et ne sont pas nominatifs.

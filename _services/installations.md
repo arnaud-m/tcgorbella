@@ -48,4 +48,4 @@ Les joueurs doivent obligatoirement procéder à la remise en état du terrain e
 ## Fermeture exceptionnelle
 
 En cas d’intempéries  (pluie, dégel…) ou de travaux d’entretien pour remise en état des terrains, le club sera fermé sur décision du Bureau, jusqu’à remise en état des terrains.
-Il est formellement interdit de pénétrer sur les courts lorsqu’ il est indiqué qu’ils sont « impraticables ».
+Il est formellement interdit de pénétrer sur les courts lorsqu'il est indiqué qu'ils sont « impraticables ».
