@@ -24,10 +24,11 @@ Le **cours individuel** est idéal pour travailler un aspect précis du tennis (
 
 Le **cours à deux** fonctionne sur la même base que le cours individuel, progressez rapidement avec un ou une partenaire de votre choix.
 
-| Cours à deux     | 1 heure     | 5 heures    | 10 heures    |
-|------------------|:-----------:|:-----------:|:------------:|
-| **Adhérent**     | 20€ / pers. | 95€ / pers. | 185€ / pers. |
-| **Non adhérent** | 22,5€/p     | 105€/p      | 200€/p       |
+| Cours à deux     | 1 heure      | 5 heures     | 10 heures    |
+|------------------|:------------:|:------------:|:------------:|
+| **Adhérent**     | 20€ / pers.  | 95€ / pers.  | 185€ / pers. |
+| **Non adhérent** | 22,5€/ pers. | 105€ / pers. | 200€/ pers.  |
+
 
 
 
