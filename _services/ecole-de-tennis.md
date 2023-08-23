@@ -3,14 +3,14 @@ title: "École de tennis"
 # date: 2019-01-28T15:15:26+10:00
 weight: 3
 ---
-L’école de tennis est ouverte aux enfants de 4 à 17 ans du 1er septembre au 30 juin suivant pendant les périodes scolaires.
+L’école de tennis est ouverte aux jeunes de 4 à 17 ans du 1er septembre au 30 juin suivant pendant les périodes scolaires, du mini-tennis jusqu'à la compétition.
 <!--more-->
-
 
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis">Voir les offres du club sur HelloAsso</a>
 {: style="text-align: center;"}
 
-Les jeunes sont répartis par groupe d’âges et de niveaux en début d'année.
+Les jeunes sont répartis en groupe de 4 à 6 enfants constitués par âge et niveau au début de l'année.
+Les séances ont lieu du lundi au vendredi, mais surtout le mercredi.
 
 ## Licence FFT
 Ils sont obligatoirement licenciés à la Fédération Française de Tennis.
