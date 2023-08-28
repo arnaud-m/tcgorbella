@@ -20,8 +20,8 @@ En aucun cas, une inscription ne pourra être remboursée, toute ou partie, pour
 
 ## Inscription
 Pour être retenue, l’inscription doit être complète, à savoir :
-- une fiche d’inscription complétée (obligatoire pour les nouveaux) ;
-- pour les mineurs, le dispositif d'attestation pour le questionnaire de santé QS-SPORT Cerfa N°15699*01 ([questionnaire](/assets/adhesion/attestation-ou-certificat-medical.pdf)) est en vigueur ;
+- une [fiche d’inscription](/assets/ecole-de-tennis/TCG-Fiche-Inscription-Ecole.pdf) complétée (obligatoire pour les nouveaux) ;
+- pour les mineurs, le dispositif d'attestation pour le questionnaire de santé QS-SPORT Cerfa N°15699*01 ([questionnaire](/assets/ecole-de-tennis/attestation-ou-certificat-medical.pdf)) est en vigueur ;
 - ainsi que le règlement de la cotisation annuelle selon modalités demandées par le club.
 
 

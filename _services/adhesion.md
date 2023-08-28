@@ -18,7 +18,7 @@ L’adhésion entraîne l'acceptation sans réserve et le respect du règlement 
 
 **L'adhésion s'effectue par [Ten'Up](https://tenup.fft.fr/club/62060274/offres), sauf exception.**\
 Pour être retenue, l’adhésion doit être complète, à savoir :
-- une fiche d’inscription complétée (obligatoire pour les nouveaux adhérents) ;
+- une [fiche d’inscription](/assets/adhesion/TCG-Fiche-Adhesion-Club.pdf) complétée (obligatoire pour les nouveaux adhérents) ;
 - ainsi que le règlement de la cotisation annuelle selon modalités demandées par le club.
 
 la Fédération Française de Tennis a validé la suppression du certificat médical, ainsi que des attestations, dans le cadre de la délivrance d'une licence à un pratiquant majeur (voir [ici](https://www.fft.fr/actualites/licences-2024-les-principaux-changements-0)).
