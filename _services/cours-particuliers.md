@@ -19,7 +19,7 @@ Le **cours individuel** est idéal pour travailler un aspect précis du tennis (
 | Cours individuel | 1 heure | 5 heures | 10 heures |
 |------------------|:-------:|:--------:|:---------:|
 | **Adhérent**     | 33€     | 160€     | 300€      |
-| **Non adhérent** | 35€     | 170€     | 315€      |
+| **Non adhérent** | 35€     | 170€     | 325€      |
 
 
 Le **cours à deux** fonctionne sur la même base que le cours individuel, progressez rapidement avec un ou une partenaire de votre choix.
@@ -30,17 +30,22 @@ Le **cours à deux** fonctionne sur la même base que le cours individuel, progr
 | **Non adhérent** | 22,5€/ pers. | 105€ / pers. | 200€/ pers.  |
 
 
-
-
 Le **cours collectif** fonctionne avec un groupe de 4 à 8 personnes réparties sur un ou plusieurs terrains.
 Il y a une séance hebdomadaire (1h30) pendant les périodes scolaires d'octobre à juin.
 Retrouvez un enseignement individualisé couplé au partage et à la convivialité.
 
 | Cours Collectif  | 27 séances |
 |------------------|:----------:|
-| **Adhérent**     | 320€       |
-| **Non adhérent** | 350€       |
+| **Adhérent**     | 350€       |
+| **Non adhérent** | 380€       |
 
+
+Le **baby tennis** propose 45 minutes de jeux ludiques à un groupe de 3 joueurs de 3-4 ans.
+Il y a une séance hebdomadaire le samedi de 13h30 à 14h15 pendant les périodes scolaires d'octobre à juin.
+
+| Baby Tennis | 27 séances |
+|-------------|:----------:|
+| **Enfant**  | 280€       |
 
 
 - Les tarifs n'incluent pas la licence FFT obligatoire.
