@@ -1,7 +1,7 @@
 ---
 title: "Animations"
 # date: 2019-03-28T15:14:54+10:00
-weight: 4
+weight: 5
 ---
 Le club organise des animations récurrentes ou exceptionnelles pour les adhérents ou l'école de tennis, sous forme sportives ou extra-sportives, pour une catégorie d’âge ou intergénérationnelles !
 <!--more -->
