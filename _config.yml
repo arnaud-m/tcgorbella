@@ -35,8 +35,13 @@ defaults:
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
+# url for the sitemap
+url: "https://tcgorbella.fr" # the base hostname & protocol for your site
+
+
 plugins:
   - jekyll-environment-variables
+  - jekyll-sitemap
 
 exclude:
   - Gemfile

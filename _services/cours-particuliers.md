@@ -43,7 +43,7 @@ Retrouvez un enseignement individualisé couplé au partage et à la convivialit
 Le **baby tennis** propose 45 minutes de jeux ludiques à un groupe de 3 joueurs de 3-4 ans.
 Il y a une séance hebdomadaire le samedi de 13h30 à 14h15 pendant les périodes scolaires d'octobre à juin.
 
-| Baby Tennis | 27 séances |
+| Baby Tennis | 25 séances |
 |-------------|:----------:|
 | **Enfant**  | 280€       |
 
