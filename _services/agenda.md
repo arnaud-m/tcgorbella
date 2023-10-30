@@ -1,7 +1,7 @@
 ---
 title: "Agenda"
 # date: 2018-11-18T12:33:46+10:00
-weight: 7
+weight: 8
 ---
 
 Le TC gorbella partage un [agenda google](https://calendar.google.com/calendar/embed?src=076rkptkh872flvptaafpd01jg%40group.calendar.google.com&ctz=Europe%2FParis) qui indique les activités du club et l'occupation des terrains.

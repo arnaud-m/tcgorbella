@@ -1,7 +1,7 @@
 ---
 title: "Compétition"
 # date: 2019-02-28T15:15:34+10:00
-weight: 6
+weight: 7
 ---
 Chaque année, le TC Gorbella organise des tournois amicaux et engage des équipes dans les championnats interclubs.
 <!--more-->
