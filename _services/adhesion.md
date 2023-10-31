@@ -9,21 +9,48 @@ Notre club est le lieu idéal pour les amateurs de tennis de tous niveaux, du d�
 
 <!--more-->
 
+L'adhésion est valable du 1er septembre au 31 août suivant.\
+**L'adhésion s'effectue par [Ten'Up](https://tenup.fft.fr/club/62060274/offres), sauf exception.**
 
-Les adhérents du club sont obligatoirement licenciés à la Fédération Française de Tennis.
+
+Les adhérents du club sont **obligatoirement licenciés à la Fédération Française de Tennis**.
 Les adhérents bénéficient, à ce titre, d’une assurance les couvrant lors d’un accident.
-La cotisation est valable du 1er septembre au 31 août suivant.
+Il est possible de prendre la licence seule, sans adhérer au club.
 
-En aucun cas une adhésion ne pourra être remboursée, toute ou partie, pour quelque raison que ce soit (arrêt maladie, blessures, départ).
-L’adhésion entraîne l'acceptation sans réserve et le respect du règlement intérieur.
+| Licence Multiraquettes | Prix |
+|------------------------|:----:|
+| Jeune 6 ans et moins   | 12€  |
+| Jeune de 7 à 18 ans    | 22€  |
+| Adulte                 | 32€  |
 
-**L'adhésion s'effectue par [Ten'Up](https://tenup.fft.fr/club/62060274/offres), sauf exception.**\
-Pour être retenue, l’adhésion doit être complète, à savoir :
+**La licence n'est pas incluse dans les tarifs ci-dessous.**
+
+La **cotisation annuelle** offre un accès libre aux terrains tous les jours de l'année.
+Un tarif réduit est proposé aux moins de 25 ans, plus de 80 ans, classés en en seconde série, ou conjoints d'adhérent.
+
+| Cotisation annuelle | Prix   |
+|---------------------|:------:|
+| Plein tarif         | 318€   |
+| Tarif réduit        | 168€   |
+
+La **carte famille** offre un accès libre aux terrains en journée de 10h à 18h pendant les week-ends les vacances scolaires.
+Elle est réservée aux enfants inscrits à l'école de tennis l'année en cours et à leurs parents.
+Elle est incluse dans les offres de l'école de tennis avec deux cours collectifs par semaine.
+
+| Carte famille | Prix |
+|---------------|:----:|
+| Enfant        | 50€  |
+| Parent        | 100€ |
+
+<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Adhérer au TC Gorbella</a>
+{: style="text-align: center;"}
+
+Pour être retenue, **l’adhésion doit être complète**, à savoir :
 - une [fiche d’inscription](/assets/adhesion/TCG-Fiche-Adhesion-Club.pdf) complétée (obligatoire pour les nouveaux adhérents) ;
 - ainsi que le règlement de la cotisation annuelle selon modalités demandées par le club.
 
 la Fédération Française de Tennis a validé la suppression du certificat médical, ainsi que des attestations, dans le cadre de la délivrance d'une licence à un pratiquant majeur (voir [ici](https://www.fft.fr/actualites/licences-2024-les-principaux-changements-0)).
 Pour les mineurs, le dispositif d'attestation pour le questionnaire de santé QS-SPORT Cerfa N°15699*01 ([questionnaire](/assets/adhesion/attestation-ou-certificat-medical.pdf)) reste en vigueur.
 
-<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Adhérer au TC Gorbella</a>
-{: style="text-align: center;"}
+En aucun cas une adhésion ne pourra être remboursée, toute ou partie, pour quelque raison que ce soit (arrêt maladie, blessures, départ).
+L'adhésion entraîne l'acceptation sans réserve et le respect du règlement intérieur.
