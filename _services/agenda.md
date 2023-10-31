@@ -12,7 +12,7 @@ Il permet de comprendre facilement les périodes où les terrains sont indisponi
 
 L'occupation des courts est indiquée dans le titre d’un événement de la manière suivante : TITRE (COURTS).
 
-- `EDT (1-3)` : les trois courts sont occupés par l'école de tennis.
+- `École de tennis (1-3)` : les trois courts sont occupés par l'école de tennis.
 - `Stages (1,3)` : les courts 1 et 3 sont occupés par un stage hors l'école de tennis.
 - `Cours (3)` : le court 3 est occupé par un cours hors école de tennis.
 - `TCG vs XXX` :  une compétition interclubs occupe les 3 courts.
