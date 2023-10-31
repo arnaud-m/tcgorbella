@@ -6,28 +6,40 @@ weight: 4
 L’école de tennis est ouverte aux jeunes de 4 à 17 ans du 1er septembre au 30 juin suivant pendant les périodes scolaires, du mini-tennis jusqu'à la compétition.
 <!--more-->
 
-<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis">Voir les offres du club sur HelloAsso</a>
-{: style="text-align: center;"}
-
-Les jeunes sont répartis en groupe de 4 à 6 enfants constitués par âge et niveau au début de l'année.
-Les séances ont lieu du lundi au vendredi, mais surtout le mercredi.
-
-## Licence FFT
-Ils sont obligatoirement licenciés à la Fédération Française de Tennis.
+Les jeunes sont **obligatoirement licenciés à la Fédération Française de Tennis**.
 Ils bénéficient, à ce titre, d’une assurance les couvrant lors d’un accident.
-En aucun cas, une inscription ne pourra être remboursée, toute ou partie, pour quelque raison que ce soit (arrêt maladie, blessures, départ).
+
+| Licence Multiraquettes | Prix |
+|------------------------|:----:|
+| Jeune 6 ans et moins   | 12€  |
+| Jeune de 7 à 18 ans    | 22€  |
+
+Les jeunes suivent **un ou deux cours collectifs** par semaine selon la formule choisie.
+Ils sont répartis en groupe de 4 à 6 enfants constitués par âge et niveau en début d'année scolaire.
+Les séances ont lieu du lundi au vendredi, mais surtout le mercredi.\
+La [carte famille](/services/adhesion/) donne un accès libre aux terrains en journée de 10h à 18h pendant les week-ends les vacances scolaires.
+Elle est incluse dans certaines offres, et peut être achetée sinon.
+
+| Offre d'enseignement             | Carte famille | Inscription | Licence | Total    |
+|------------------------------------|:-------------:|:-----------:|:-------:|:--------:|
+| **Initiation 1h (6 ans et moins)** | &#10008;      | 238€        | 12€     | **250€** |
+| **Initiation 1h**                  | &#10008;      | 228€        | 22€     | **250€** |
+| **Club junior 1h30**               | &#10008;      | 328€        | 22€     | **350€** |
+| **Doublon initiation 2 x 1h**      | &#10004;      | 418€        | 22€     | **450€** |
+| **Doublon club junior 1h + 1h30**  | &#10004;      | 448€        | 22€     | **470€** |
+| **Team compétition**               | &#10004;      | 468€        | 22€     | **490€** |
 
 
-## Inscription
-Pour être retenue, l’inscription doit être complète, à savoir :
+
+
+Pour être retenue, **l’inscription doit être complète**, à savoir :
 - une [fiche d’inscription](/assets/ecole-de-tennis/TCG-Fiche-Inscription-Ecole.pdf) complétée (obligatoire pour les nouveaux) ;
 - pour les mineurs, le dispositif d'attestation pour le questionnaire de santé QS-SPORT Cerfa N°15699*01 ([questionnaire](/assets/ecole-de-tennis/attestation-ou-certificat-medical.pdf)) est en vigueur ;
 - ainsi que le règlement de la cotisation annuelle selon modalités demandées par le club.
 
 
-## Modalités de règlement
 
-Les modalités de règlement acceptées sont les suivantes.
+Les **modalités de règlement** acceptées sont les suivantes.
 
 - la plus simple pour le club est une inscription avec [Ten'Up](https://tenup.fft.fr/club/62060274/offres) ;
   - Le jeune ou un parent doit avoir un compte Ten'Up.
@@ -45,3 +57,6 @@ Les modalités de règlement acceptées sont les suivantes.
 
 - en [coupons sport](https://coupons-sport.nice.fr/fr) ;
 - en [Pass'Sport](https://pass.sports.gouv.fr/).
+
+En aucun cas une inscription ne pourra être remboursée, toute ou partie, pour quelque raison que ce soit (arrêt maladie, blessures, départ).
+L'inscription entraîne l'acceptation sans réserve et le respect du règlement intérieur.
