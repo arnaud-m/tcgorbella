@@ -47,6 +47,16 @@ Il y a une séance hebdomadaire le samedi de 13h30 à 14h15 pendant les période
 |-------------|:----------:|
 | **Enfant**  | 280€       |
 
+Le **stage** a lieu le matin pendant les vacances scolaires pour des jeunes de 4 à 17 ans.
+Un stage peut être suivi à la carte en prenant les séances à l'unité.
+Il est possible de prendre en charge les jeunes dès 9h le matin.
+Les périodes de stage sont indiquées dans l'[agenda](/services/agenda/).
+
+| Stages          | Catégorie d'âge | Horaire       | 5 séances | 1 séance |
+|-----------------|-----------------|---------------|:---------:|:--------:|
+| **Mini Tennis** | de 4 à 6 ans    | De 9h à 10h   | 65€       | 15€      |
+| **Tennis**      | de 7 à 17 ans   | De 9h30 à 12h | 110€      | 25€      |
+
 
 - Les tarifs n'incluent pas la licence FFT obligatoire.
 - Les forfaits 10 heures et collectifs peuvent être réglés en trois échéances et ne sont pas nominatifs.
