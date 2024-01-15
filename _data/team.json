@@ -14,42 +14,48 @@
     promoted: "true",
     weight: 2
 },
+{
+    title: "Maxime Penel",
+    jobtitle: "Éducateur sportif",
+    promoted: "true",
+    weight: 3
+},
     {
     title: "Arnaud Malapert",
     jobtitle: "Président",
     email: "tc.gorbella@fft.fr",
-    weight: 3
+    weight: 11
 },
     {
     title: "Sylvain Bernard",
     jobtitle: "Trésorier",
     email: "sylvain@tcgorbella.fr",
-    weight: 4
+    weight: 12
 },
     {
     title: "Henry Corre",
     jobtitle: "Bureau",
-    weight: 6
+    weight: 14
 },
     {
     title: "Philippe Huot",
     jobtitle: "Bureau",
-    weight: 7
+    weight: 15
 },
     {
     title: "Marc Petitjean",
     jobtitle: "Bureau",
-    weight: 8
+    weight: 15
 },
     {
     title: "Josiane Samuelson",
     jobtitle: "Secrétaire générale",
-    weight: 5
+    weight: 13
 },
     {
     title: "Mourad Taiati",
     jobtitle: "Bureau",
-    weight: 9
+    weight: 16
 }
 
 
