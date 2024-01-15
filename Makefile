@@ -11,7 +11,11 @@ serve:
 draft:
 	${JEKYLL} serve ${JOPTS} ${DEVCONF} --draft --future
 
-deploy:
+build:
+	${JEKYLL} build ${JOPTS} ${DEVCONF}
+	${SYNC} ${SYNCONF} _site ovh:www
+
+deploy: build
 	${SYNC} ${SYNCONF} _site ovh:www
 
 clean:
