@@ -4,10 +4,57 @@ title: "Location"
 weight: 3
 ---
 
-Vous n'êtes pas membre du club, mais vous aimeriez jouer au TC Gorbella pendant une courte période, vos vacances au hasard, alors profitez de la carte passager.
+Vous n'êtes pas membre du club, mais vous aimeriez jouer au TC Gorbella pendant une courte période, vos vacances au hasard, alors profitez de la location.
 <!--more-->
 
-Les passagers ont **accès aux terrains sans réservation** aux même conditions que les adhérents pendant un jour, une semaine, ou un mois.
+Les passagers ont **accès aux terrains avec réservation** aux même conditions que les adhérents.
+Il existe deux offres selon que vous prévoyez de jouer ponctuellement ou plus régulièrement.
+Le seul mode de paiement accepté est le paiement en ligne par Ten'Up, car le club n'a pas de permanence d'accueil.
+
+Prenez deux minutes pour découvrir [nos installations ](/services/installations/) avant de réserver.
+
+### Location horaire
+
+La location horaire s'adresse en priorité aux joueurs qui veulent découvrir notre club ou jouer rarement au club.
+Elle permet aux joueurs (licenciés ou non) de jouer partout en France et réserver des créneaux simplement et efficacement.
+
+| Location horaire | Prix / Heure |
+|------------------|:------------:|
+| Tarif unique     | 20€          |
+
+
+<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/location-horaire">Location horaire sur Ten'Up</a>
+{: style="text-align: center;"}
+
+
+### Carnet de tickets
+
+Le carnet de tickets s'adresse aux joueurs qui veulent jouer de temps en temps au club, mais ne sont pas encore prêts à devenir adhérent.
+Les publics ciblés sont les parents de l'école de tennis, les vacanciers en moyen séjour, et les joueurs occasionnels.
+Le carnet permet de réserver plus tôt et encore plus simplement que la location horaire, et surtout, de ne pas avoir à effectuer une transaction financière à chaque réservation.
+
+| Carnet de 5 tickets | Prix / Carnet |
+|---------------------|:-------------:|
+| Tarif adhérent      | 45€           |
+| Tarif invité        | 50€           |
+
+
+<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Acheter un carnet de tickets sur Ten'Up</a>
+{: style="text-align: center;"}
+
+Nous exigeons une [licence](https://www.fft.fr/jouer/se-licencier/choisir-sa-licence) pour l'achat d'un carnet de tickets.
+Les vacanciers pourront se contenter d'une [licence découverte](https://www.fft.fr/la-licence-decouverte), mais nous encourageons les autres à prendre une [licence multi-raquettes](https://www.fft.fr/la-licence-multi-raquettes).
+La prise d'une licence multi-raquettes est une forme de soutien pour le club et vous offre de nombreux avantages.
+
+### Conditions d'utilisation
+
+- Les instructions pour accéder au club vous seront envoyées par courriel après l'achat.
+- Le club se réserve le droit d'interdire la location en cas d'abus. La location ne doit pas se substituer à une adhésion.
+- Le club dégage toutes responsabilités concernant les passagers : accident, dégradation, vol...
+
+
+{% comment %}
+pendant un jour, une semaine, ou un mois.
 C'est-à-dire que l'accès au terrain se fait sans réservation en accrochant la carte passager au panneau prévu et en enclenchant la la minuterie quand un terrain est disponible.
 Prenez deux minutes pour découvrir [nos installations ](/services/installations/).\
 **La carte passager est uniquement disponible sur [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/boutiques/carte-passager).**
@@ -29,3 +76,5 @@ Prenez deux minutes pour découvrir [nos installations ](/services/installations
 - Les instructions pour accéder au club vous seront envoyées par courriel après l'achat.
 - Une même personne ne peut bénéficier d’une carte passager qu’au maximum 5 fois par an. Au delà, il lui faut adhérer au club.
 - Le club dégage toutes responsabilités concernant les passagers : accident, dégradation, vol...
+
+{% endcomment %}

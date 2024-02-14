@@ -14,10 +14,10 @@ L'adhésion est valable du 1er septembre au 31 août suivant.\
 
 
 Les adhérents du club sont **obligatoirement licenciés à la Fédération Française de Tennis**.
-Les adhérents bénéficient, à ce titre, d’une assurance les couvrant lors d’un accident.
-Il est possible de prendre la licence seule, sans adhérer au club.
+Les adhérents bénéficient, à ce titre, d’une assurance les couvrant lors d’un accident ainsi que d'autres avantages.
+Il est possible de prendre la [licence multi-raquettes](https://www.fft.fr/la-licence-multi-raquettes) seule, sans adhérer au club.
 
-| Licence Multiraquettes | Prix |
+| Licence Multi-raquettes | Prix |
 |------------------------|:----:|
 | Jeune 6 ans et moins   | 12€  |
 | Jeune de 7 à 18 ans    | 22€  |
@@ -27,6 +27,7 @@ Il est possible de prendre la licence seule, sans adhérer au club.
 
 La **cotisation annuelle** offre un accès libre aux terrains tous les jours de l'année.
 Un tarif réduit est proposé aux moins de 25 ans, plus de 80 ans, classés en en seconde série, ou conjoints d'adhérent.
+Un carnet de 5 tickets pour jouer avec des partenaires de votre choix est offert avec la cotisation annuelle.
 
 | Cotisation annuelle | Prix   |
 |---------------------|:------:|
@@ -34,13 +35,13 @@ Un tarif réduit est proposé aux moins de 25 ans, plus de 80 ans, classés en e
 | Tarif réduit        | 168€   |
 
 La **carte famille** offre un accès libre aux terrains en journée de 10h à 18h pendant les week-ends les vacances scolaires.
-Elle est réservée aux enfants inscrits à l'école de tennis l'année en cours et à leurs parents.
+Elle est réservée aux enfants inscrits à l'école de tennis l'année en cours.
 Elle est incluse dans les offres de l'école de tennis avec deux cours collectifs par semaine.
+Les parents non adhérents peuvent acheter un [carnet de tickets](/services/location) pour jouer avec leurs enfants.
 
 | Carte famille | Prix |
 |---------------|:----:|
 | Enfant        | 50€  |
-| Parent        | 100€ |
 
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Adhérer au TC Gorbella</a>
 {: style="text-align: center;"}
