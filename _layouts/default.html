@@ -23,12 +23,14 @@
   <meta name="twitter:card" content="summary"/>
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
-
+  <!-- {% include  full-calendar.html %} -->
+  {% if layout.calendar %}{% include  full-calendar.html %}{% endif %} -->
 </head>
+
 
 <body class='page {{layout.bodyClass}}'>
   {% include main-menu-mobile.html %}
-  <div id="wrapper" class="wrapper">
+   <div id="wrapper" class="wrapper">
     {% include header.html headerClass='header-extra' %}
     {{content}}
   </div>

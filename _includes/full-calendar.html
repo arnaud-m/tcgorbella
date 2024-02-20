@@ -18,10 +18,10 @@
           *         window.open(info.event.url);
           *     }
           * }, */
-         initialView: "{{ include.initialView }}",
+         initialView: "{{ layout.calendar }}",
          firstDay: '1'
-         });
-         calendar.setOption('locale', 'fr');
-         calendar.render();
      });
+     calendar.setOption('locale', 'fr');
+     calendar.render();
+ });
 </script>
