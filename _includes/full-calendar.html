@@ -1,0 +1,27 @@
+<script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/index.global.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/google-calendar@6.1.10/index.global.min.js'></script>
+<script>
+ document.addEventListener('DOMContentLoaded', function() {
+     var calendarEl = document.getElementById('calendar');
+     var calendar = new FullCalendar.Calendar(calendarEl, {
+         googleCalendarApiKey: 'AIzaSyCw0z8AhZ_dLahsxPo0nrrpp5GtRQacPBM',
+         eventSources: [
+             {
+                 googleCalendarId: '076rkptkh872flvptaafpd01jg@group.calendar.google.com'
+             }
+         ],
+         /* eventClick: function(info) {
+          *     info.jsEvent.preventDefault(); // don't let the browser navigate
+          *     var eventObj = info.event;
+          *     alert('ID: ' + info.event.id + 'Title: ' + info.event.title + 'Start: ' + info.event.start  + 'Description: ' + info.event.extendedProps.description );
+          *     if (info.event.url) {
+          *         window.open(info.event.url);
+          *     }
+          * }, */
+         initialView: "{{ include.initialView }}",
+         firstDay: '1'
+         });
+         calendar.setOption('locale', 'fr');
+         calendar.render();
+     });
+</script>
