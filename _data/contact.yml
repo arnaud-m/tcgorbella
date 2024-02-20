@@ -1,5 +1,12 @@
 address: '39 rue Paul Bounin, 06100 Nice'
-email: 'tc.gorbella@fft.fr'
-email-edt: 'thomas@tcgorbella.fr'
 phone: '+33 9 75 97 55 58'
 contact_button_link: 'contact/'
+emails:
+  - title: "Club"
+    email: "tc.gorbella@fft.fr"
+  - title: "École de tennis"
+    email: "ecole@tcgorbella.fr"
+  - title: "Cours particuliers"
+    email: "thomas@tcgorbella.fr"
+  - title: "Trésorier"
+    email: "sylvain@tcgorbella.fr"

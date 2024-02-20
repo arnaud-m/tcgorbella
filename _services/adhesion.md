@@ -25,7 +25,7 @@ Il est possible de prendre la [licence multi-raquettes](https://www.fft.fr/la-li
 
 **La licence n'est pas incluse dans les tarifs ci-dessous.**
 
-La **cotisation annuelle** offre un accès libre aux terrains tous les jours de l'année.
+**La cotisation annuelle offre un accès aux terrains tous les jours de l'année.**<br/>
 Un tarif réduit est proposé aux moins de 25 ans, plus de 80 ans, classés en en seconde série, ou conjoints d'adhérent.
 Un carnet de 5 tickets pour jouer avec des partenaires de votre choix est offert avec la cotisation annuelle.
 
@@ -34,7 +34,7 @@ Un carnet de 5 tickets pour jouer avec des partenaires de votre choix est offert
 | Plein tarif         | 318€   |
 | Tarif réduit        | 168€   |
 
-La **carte famille** offre un accès libre aux terrains en journée de 10h à 18h pendant les week-ends les vacances scolaires.
+**La carte famille offre un accès aux terrains tous les jours de 10h à 18h.**<br/>
 Elle est réservée aux enfants inscrits à l'école de tennis l'année en cours.
 Elle est incluse dans les offres de l'école de tennis avec deux cours collectifs par semaine.
 Les parents non adhérents peuvent acheter un [carnet de tickets](/services/location) pour jouer avec leurs enfants.

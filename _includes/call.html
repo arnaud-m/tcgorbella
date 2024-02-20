@@ -6,20 +6,19 @@
     {% if site.data.contact.phone %}
         <div class="call-phone"><strong>Téléphone : </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
-    {% if site.data.contact.email %}
-    <div class="call-email"><strong>Email du club : </strong>
-        <a href="mailto:{{ .site.data.contact.email }}">
-            {{ site.data.contact.email }}
-        </a>
+    {% if site.data.contact.emails %}
+    <div class="call-email"><strong>Emails : </strong>
+        <ul style="list-style-position: inside">
+            {% for contact in site.data.contact.emails %}
+            <li><strong>{{ contact.title }} &#8210; </strong>
+                <a href="mailto:{{ contact.email }}">
+                    {{ contact.email }}
+                </a></li>
+            {% endfor %}
+        </ul>
     </div>
     {% endif %}
-    {% if site.data.contact.email-edt %}
-    <div class="call-email"><strong>Email de l'école de tennis : </strong>
-        <a href="mailto:{{ .site.data.contact.email-edt }}">
-            {{ site.data.contact.email-edt }}
-        </a>
-    </div>
-    {% endif %}
+
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
