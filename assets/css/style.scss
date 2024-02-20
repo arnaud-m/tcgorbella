@@ -59,12 +59,14 @@ $hover-white-offset: darken($white-offset, 10%);
 @import "components/strip";
 @import "components/feature";
 @import "components/social";
+@import "components/full-calendar";
 // @import "components/fonts"; // Uncomment this line to self host font
 
 // Pages
 @import "pages/page-home";
 @import "pages/page-teams";
 @import "pages/page-service";
+@import "pages/page-agenda";
 
 body {
   font-size: 16px;
