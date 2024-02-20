@@ -52,7 +52,46 @@ bodyClass: "page-home"
   </div>
 </div>
 
-<!--  map-->
+<script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/index.global.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/google-calendar@6.1.10/index.global.min.js'></script>
+<script>
+ document.addEventListener('DOMContentLoaded', function() {
+     var calendarEl = document.getElementById('calendar');
+     var calendar = new FullCalendar.Calendar(calendarEl, {
+         googleCalendarApiKey: 'AIzaSyCw0z8AhZ_dLahsxPo0nrrpp5GtRQacPBM',
+         eventSources: [
+             {
+                 googleCalendarId: '076rkptkh872flvptaafpd01jg@group.calendar.google.com'
+             }
+         ],
+         /* eventClick: function(info) {
+          *     info.jsEvent.preventDefault(); // don't let the browser navigate
+          *     var eventObj = info.event;
+          *     alert('ID: ' + info.event.id + 'Title: ' + info.event.title + 'Start: ' + info.event.start  + 'Description: ' + info.event.extendedProps.description );
+          *     if (info.event.url) {
+          *         window.open(info.event.url);
+          *     }
+          * }, */
+         initialView: 'listMonth'
+     });
+     calendar.setOption('locale', 'fr');
+     calendar.render();
+ });
+
+</script>
+
+<!-- Calendar -->
+<div class="content">
+    <div class="container pb-6 pt-6 pb-md-10">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10">
+                <div id='calendar'></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- map -->
 <div class="content">
     <div class="container pb-6 pt-6 pb-md-10">
         <div class="row justify-content-center">
@@ -61,6 +100,7 @@ bodyClass: "page-home"
                 <p> Le Tennis Club Gorbella est situé sur le boulevard Gorbella dans le quartier Nice Nord, juste à côté de la station de tramway Gorbella (à 15 minutes du centre ville), et à 5 minutes en voiture au sud de la sortie 54 Nice Nord de l’autoroute A8.
                     Avec des zones en plein devenir comme le secteur du Ray et des quartiers historiques comme celui des poètes, Nice Nord offre un visage pluriel et riche.
                     Si vous cherchez un club de tennis familial dans Nice, nous sommes prêts à vous recevoir.
+                </p>
             </div>
             <div class="col-12 col-md-4">
                 <a href="https://goo.gl/maps/56B9SdwqGwbXMwrw6" target=”_blank”>
