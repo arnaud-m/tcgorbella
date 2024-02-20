@@ -10,6 +10,7 @@ $white: #ffffff;
 $white-offset: #fff7f2;
 $steel: #5c5a5a;
 
+
 // Links
 $link-color: $primary;
 $link-decoration: none;
@@ -25,6 +26,10 @@ $footer-background-color: $primary;
 $footer-text-color: $white;
 $sub-footer-background-color: darken($primary, 10%);
 $sub-footer-text-color: $white;
+
+// Full Calendar
+$hover-white-offset: darken($white-offset, 10%);
+
 
 // Bootstrap
 @import "bootstrap-variables";
