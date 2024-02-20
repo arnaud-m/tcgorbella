@@ -18,10 +18,21 @@
           *         window.open(info.event.url);
           *     }
           * }, */
+         /* see assets/css/style.scss */
+         eventColor: '#c45824',
+         eventBorderColor: '#c45824',
          initialView: "{{ layout.calendar }}",
-         firstDay: '1'
+         firstDay: '1',
+         listDayFormat: {
+             month: 'long',
+             day: 'numeric',
+             weekday: 'long'
+         },
+         listDaySideFormat: false
+
+
      });
-     calendar.setOption('locale', 'fr');
-     calendar.render();
+         calendar.setOption('locale', 'fr');
+         calendar.render();
  });
 </script>

@@ -3,4 +3,48 @@
   .service-alerted-content {
     background: $white-offset;
   }
+
+  .fc .fc-list-event.fc-event-forced-url {
+    background-color: #fff;
+  }
+
+  .fc-toolbar-title { text-transform: capitalize; }
+
+}
+
+:root {
+  --fc-small-font-size: .85em;
+  --fc-page-bg-color: #fff;
+  --fc-neutral-bg-color: #fff7f2;
+  --fc-neutral-text-color: #808080;
+  --fc-border-color: #ddd;
+
+  --fc-button-text-color: #fff;
+  --fc-button-bg-color: #c45824;
+  --fc-button-border-color: #c45824;
+  --fc-button-hover-bg-color: #dc723f;
+  --fc-button-hover-border-color: #dc723f;
+  --fc-button-active-bg-color: #1a252f;
+  --fc-button-active-border-color: #151e27;
+
+  --fc-event-bg-color: #c45824;
+  --fc-event-border-color: #c45824;
+  --fc-event-text-color: #fff;
+  --fc-event-selected-overlay-color: rgba(0, 0, 0, 0.25);
+
+  --fc-list-event-hover-bg-color: #fbeadf;
+
+  --fc-more-link-bg-color: #d0d0d0;
+  --fc-more-link-text-color: inherit;
+
+  --fc-event-resizer-thickness: 8px;
+  --fc-event-resizer-dot-total-width: 8px;
+  --fc-event-resizer-dot-border-width: 1px;
+
+  --fc-non-business-color: rgba(215, 215, 215, 0.3);
+  --fc-bg-event-color: rgb(143, 223, 130);
+  --fc-bg-event-opacity: 0.3;
+  --fc-highlight-color: rgba(188, 232, 241, 0.3);
+  --fc-today-bg-color: rgba(255, 220, 40, 0.15);
+  --fc-now-indicator-color: red;
 }
