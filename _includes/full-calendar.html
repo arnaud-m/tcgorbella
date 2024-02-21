@@ -10,14 +10,6 @@
                  googleCalendarId: '076rkptkh872flvptaafpd01jg@group.calendar.google.com'
              }
          ],
-         /* eventClick: function(info) {
-          *     info.jsEvent.preventDefault(); // don't let the browser navigate
-          *     var eventObj = info.event;
-          *     alert('ID: ' + info.event.id + 'Title: ' + info.event.title + 'Start: ' + info.event.start  + 'Description: ' + info.event.extendedProps.description );
-          *     if (info.event.url) {
-          *         window.open(info.event.url);
-          *     }
-          * }, */
          /* see assets/css/style.scss */
          eventColor: '#c45824',
          eventBorderColor: '#c45824',
@@ -32,7 +24,7 @@
 
 
      });
-         calendar.setOption('locale', 'fr');
-         calendar.render();
+     calendar.setOption('locale', 'fr');
+     calendar.render();
  });
 </script>
