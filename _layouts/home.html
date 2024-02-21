@@ -24,7 +24,7 @@ bodyClass: "page-home"
 
 <!-- services -->
 <div class="strip">
-  <div class="container pt-6 pb-6 pb-md-10">
+  <div class="container pt-6 pb-6 pb-md-8">
       <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
       {% for service in site.services limit: limit %}
@@ -55,7 +55,7 @@ bodyClass: "page-home"
 
 <!-- Calendar -->
 <div class="content">
-    <div class="container pb-6 pt-6 pb-md-10">
+    <div class="container pb-6 pt-6 pb-md-8">
         <div class="row justify-content-center">
             <div class="col-12 col-md-10">
                 <div id='calendar'></div>
@@ -66,7 +66,7 @@ bodyClass: "page-home"
 
 <!-- map -->
 <div class="content">
-    <div class="container pb-6 pt-6 pb-md-10">
+    <div class="container pb-6 pt-6 pb-md-8">
         <div class="row justify-content-center">
             <div class="col-12 col-md-6">
                 <h2>Tennis Club Gorbella</h2>
@@ -90,7 +90,7 @@ bodyClass: "page-home"
 <!-- features -->
 {% if site.data.features %}
 <div class="strip strip-grey">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+  <div class="container pt-6 pb-6 pt-md-8 pb-md-8">
     <div class="row justify-content-center">
 
       {% for feature in site.data.features %}
