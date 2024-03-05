@@ -3,10 +3,10 @@ permalink: pretty
 title: 'TC Gorbella'
 
 logo:
-  mobile: "images/logo/logo-mobile.jpg"
+  mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.jpg"
+  desktop: "images/logo/logo.svg"
   desktop_height: "48px"
   desktop_width: "48px"
 
