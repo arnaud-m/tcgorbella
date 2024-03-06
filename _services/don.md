@@ -1,7 +1,7 @@
 ---
 title: "Faire un don"
 # date: 2018-12-28T15:14:39+10:00
-weight: 9
+weight: 10
 ---
 
 Faites un don dès aujourd'hui et participez à notre mission de promotion du tennis pour tous.
