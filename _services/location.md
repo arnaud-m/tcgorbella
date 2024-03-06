@@ -8,23 +8,30 @@ Vous n'êtes pas membre du club, mais vous aimeriez jouer au TC Gorbella pendant
 <!--more-->
 
 Les passagers ont **accès aux terrains avec réservation** aux même conditions que les adhérents.
-Il existe deux offres selon que vous prévoyez de jouer ponctuellement ou plus régulièrement.
-Le seul mode de paiement accepté est le paiement en ligne par Ten'Up, car le club n'a pas de permanence d'accueil.
+Vous pouvez choisir entre la location horaire pour jouer exceptionnellement et le carnet de tickets pour jouer plus régulièrement à un tarif avantageux.
+Dans tous les cas, seul le paiement en ligne est autorisé, car le club n'a pas de permanence d'accueil.
 
 Prenez deux minutes pour découvrir [nos installations ](/services/installations/) avant de réserver.
 
 ### Location horaire
 
-La location horaire s'adresse en priorité aux joueurs qui veulent découvrir notre club ou jouer rarement au club.
+La location horaire s'adresse en priorité aux joueurs qui veulent découvrir notre club ou jouer exceptionnellement au club.
 Elle permet aux joueurs (licenciés ou non) de jouer partout en France et réserver des créneaux simplement et efficacement.
+La location horaire est disponible au même tarif sur l'application fédérale Ten'Up et sur l'application Anybuddy.
 
 | Location horaire | Prix / Heure |
 |------------------|:------------:|
-| Tarif unique     | 20€          |
+| Tarif unique     | 25€          |
+
 
 
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/location-horaire">Location horaire sur Ten'Up</a>
 {: style="text-align: center;"}
+
+
+<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://www.anybuddyapp.com">Location horaire sur Anybuddy</a>
+{: style="text-align: center;"}
+
 
 
 ### Carnet de tickets
@@ -33,10 +40,10 @@ Le carnet de tickets s'adresse aux joueurs qui veulent jouer de temps en temps a
 Les publics ciblés sont les parents de l'école de tennis, les vacanciers en moyen séjour, et les joueurs occasionnels.
 Le carnet permet de réserver plus tôt et encore plus simplement que la location horaire, et surtout, de ne pas avoir à effectuer une transaction financière à chaque réservation.
 
-| Carnet de 5 tickets | Prix / Carnet |
-|---------------------|:-------------:|
-| Tarif adhérent      | 45€           |
-| Tarif invité        | 50€           |
+| Carnet     | Prix / Carnet |
+|------------|:-------------:|
+| 5 tickets  | 50€           |
+| 10 tickets | 95€           |
 
 
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Acheter un carnet de tickets sur Ten'Up</a>
