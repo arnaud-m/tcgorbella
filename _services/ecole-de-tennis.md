@@ -16,20 +16,18 @@ Ils bénéficient, à ce titre, d’une assurance les couvrant lors d’un accid
 
 Les jeunes suivent **un ou deux cours collectifs** par semaine selon la formule choisie.
 Ils sont répartis en groupe de 4 à 6 enfants constitués par âge et niveau en début d'année scolaire.
-Les séances ont lieu du lundi au vendredi, mais surtout le mercredi.\
-La [carte famille](/services/adhesion/) donne un accès libre aux terrains en journée de 10h à 18h pendant les week-ends les vacances scolaires.
-Elle est incluse dans certaines offres, et peut être achetée sinon.
+Les séances ont lieu du lundi au vendredi de 17h à 20h, et le mercredi de 10h à 20h.\
+La [carte jeune](/services/adhesion/) donne un accès aux terrains en journée de 10h à 18h toute l'année.
+Elle est incluse dans toutes les offres avec deux cours par semaine, et peut être achetée sinon.
 
-| Offre d'enseignement             | Carte famille | Inscription | Licence | Total    |
-|------------------------------------|:-------------:|:-----------:|:-------:|:--------:|
-| **Initiation 1h (6 ans et moins)** | &#10008;      | 238€        | 12€     | **250€** |
-| **Initiation 1h**                  | &#10008;      | 228€        | 22€     | **250€** |
-| **Club junior 1h30**               | &#10008;      | 328€        | 22€     | **350€** |
-| **Doublon initiation 2 x 1h**      | &#10004;      | 418€        | 22€     | **450€** |
-| **Doublon club junior 1h + 1h30**  | &#10004;      | 448€        | 22€     | **470€** |
-| **Team compétition**               | &#10004;      | 468€        | 22€     | **490€** |
-
-
+| Offre d'enseignement               | Carte jeune | Inscription | Licence | Total    |
+|------------------------------------|:-----------:|:-----------:|:-------:|:--------:|
+| **Initiation 1h (6 ans et moins)** | &#10008;    | 238€        | 12€     | **250€** |
+| **Initiation 1h**                  | &#10008;    | 228€        | 22€     | **250€** |
+| **Club junior 1h30**               | &#10008;    | 328€        | 22€     | **350€** |
+| **Doublon initiation 2 x 1h**      | &#10004;    | 418€        | 22€     | **450€** |
+| **Doublon club junior 1h + 1h30**  | &#10004;    | 448€        | 22€     | **470€** |
+| **Team compétition 2 x 1h30**      | &#10004;    | 468€        | 22€     | **490€** |
 
 
 Pour être retenue, **l’inscription doit être complète**, à savoir :

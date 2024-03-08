@@ -34,14 +34,14 @@ Un carnet de 5 tickets pour jouer avec des partenaires de votre choix est offert
 | Plein tarif         | 318€   |
 | Tarif réduit        | 168€   |
 
-**La carte famille offre un accès aux terrains tous les jours de 10h à 18h.**<br/>
-Elle est réservée aux enfants inscrits à l'école de tennis l'année en cours.
+**La carte jeune offre un accès aux terrains tous les jours de 10h à 18h.**<br/>
+Elle est réservée aux jeunes inscrits à l'école de tennis l'année en cours.
 Elle est incluse dans les offres de l'école de tennis avec deux cours collectifs par semaine.
-Les parents non adhérents peuvent acheter un [carnet de tickets](/services/location) pour jouer avec leurs enfants.
+Les parents peuvent acheter un [carnet de tickets](/services/location) ou adhérer au club pour jouer avec leurs enfants.
 
-| Carte famille | Prix |
-|---------------|:----:|
-| Enfant        | 50€  |
+| Carte jeune  | Prix |
+|--------------|:----:|
+| Tarif unique | 50€  |
 
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Adhérer au TC Gorbella</a>
 {: style="text-align: center;"}
