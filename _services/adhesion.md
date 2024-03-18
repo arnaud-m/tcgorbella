@@ -37,7 +37,7 @@ Un carnet de 5 tickets pour jouer avec des partenaires de votre choix est offert
 **La carte jeune offre un accès aux terrains tous les jours de 10h à 18h.**<br/>
 Elle est réservée aux jeunes inscrits à l'école de tennis l'année en cours.
 Elle est incluse dans les offres de l'école de tennis avec deux cours collectifs par semaine.
-Les parents peuvent acheter un [carnet de tickets](/services/location) ou adhérer au club pour jouer avec leurs enfants.
+Les parents peuvent acheter un [carnet de tickets](/services/location/) ou adhérer au club pour jouer avec leurs enfants.
 
 | Carte jeune  | Prix |
 |--------------|:----:|
