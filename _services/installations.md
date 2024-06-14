@@ -20,45 +20,12 @@ Il est expressément demandé d'éteindre les lumières et de bien fermer le por
 
 ## Accès aux terrains
 
-- **La réservation des terrains se fait sur [Ten'Up](https://tenup.fft.fr/).**
+- **La réservation des terrains pour les adhérents et les titulaires de tickets se fait sur [Ten'Up](https://tenup.fft.fr/).**
+- **La location horaire des terrains pour les non-adhérents se fait sur [Ten'Up](https://tenup.fft.fr/location-horaire) ou [Anybuddy](https://www.anybuddyapp.com).**
 - La durée d'occupation des courts est fixée à 1h avec possibilité de prolonger plus longtemps tant que personne ne se présente avec une réservation pour prendre la suite.
 - La réservation est possible jusqu'au début du créneau horaire.
 - Le délai de suppression d'une réservation est de 2 heures avant le début du créneau.
 - **Les joueurs doivent remettre le terrain en état à la fin de la partie.**
-
-{% comment %}
-
-#### Travail en cours
-
-**cette section est une proposition en cours de construction pour l'ouverture des 3 courts à la réservation.
-Seules les modalités pour le court 1 sont en vigueur pendant l'expérimentation.**
-
-Le tableau ci-dessous décrit Les modalités de réservations avec des privilèges dans l'ordre suivant : cotisation annuelle ; carte famille ; location horaire.
-Dans tous les cas, le délai de suppression est de 2 heures et la réservation est possible jusqu'au début du créneau horaire.
-
-| Modalités de réservation                        | Cotisation annuelle | Carte famille | Location horaire |
-|:------------------------------------------------|:-------------------:|:-------------:|:----------------:|
-| **Court 1** tous les jours à partir de          | 7 jours             | 7 jours       | 7 jours          |
-| **Court 2** tous les jours à partir de          | 7 jours             | 3 jours       | 1 jour           |
-| **Court 3** les jeudis et dimanches à partir de | 7 jours             | 7 jours       | --               |
-|:------------------------------------------------|:-------------------:|:-------------:|:----------------:|
-| Nb. max. de réservations simultanées            | 2                   | 1             | 1                |
-| Délai min entre deux réservations               | 16 heures           | 16 heures     | 1 jour           |
-| Prix unitaire des tickets                       | 10€                 | 10€           | --               |
-
-Le court 3 est en accès sans réservation les autres jours, mais selon les priorités du club.
-Les cours particuliers y sont notamment prioritaires.
-
-
-### Courts 2 et 3
-
-**L'accès aux terrains se fait sans réservation.** \\
-Avant chaque partie, chacun a obligation d'accrocher sa carte au tableau et d’enclencher la minuterie.
-Sans minuterie ou si l’heure est terminée, les joueurs occupant le terrain seront délogeables et devront laisser la place aux suivants, instantanément, après avoir remis le terrain en état.
-La durée d'occupation des courts est fixée à 1h par demi-journée (simple ou double) avec possibilité de prolonger plus longtemps tant que personne ne se présente pour prendre la suite.
-
-{% endcomment %}
-
 
 ## Entretien des terrains
 

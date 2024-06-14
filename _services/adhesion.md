@@ -43,7 +43,7 @@ Les parents peuvent acheter un [carnet de tickets](/services/location/) ou adhé
 |--------------|:----:|
 | Tarif unique | 50€  |
 
-<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Adhérer au TC Gorbella</a>
+<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Adhésion au TC Gorbella</a>
 {: style="text-align: center;"}
 
 Pour être retenue, **l’adhésion doit être complète**, à savoir :

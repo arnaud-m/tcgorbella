@@ -20,6 +20,12 @@
     promoted: "true",
     weight: 3
 },
+{
+    title: "Philippe Valdenaire",
+    jobtitle: "Assistant Moniteur",
+    promoted: "true",
+    weight: 4
+},
     {
     title: "Arnaud Malapert",
     jobtitle: "Président",
