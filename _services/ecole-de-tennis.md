@@ -14,7 +14,7 @@ Ils bénéficient, à ce titre, d’une assurance les couvrant lors d’un accid
 | Jeune 6 ans et moins   | 12€  |
 | Jeune de 7 à 18 ans    | 22€  |
 
-Les jeunes suivent **un ou deux cours collectifs** par semaine selon la formule choisie.
+Les jeunes suivent **un ou deux cours collectifs par semaine** selon la formule choisie.
 Ils sont répartis en groupe de 4 à 6 enfants constitués par âge et niveau en début d'année scolaire.
 Les séances ont lieu du lundi au vendredi de 17h à 20h, et le mercredi de 10h à 20h.\
 La [carte jeune](/services/adhesion/) donne un accès aux terrains en journée de 10h à 18h toute l'année.
@@ -36,11 +36,10 @@ Pour être retenue, **l’inscription doit être complète**, à savoir :
 - ainsi que le règlement de la cotisation annuelle selon modalités demandées par le club.
 
 
-
 Les **modalités de règlement** acceptées sont les suivantes.
 
 - la plus simple pour le club est une inscription avec [Ten'Up](https://tenup.fft.fr/club/62060274/offres) ;
-  - Le jeune ou un parent doit avoir un compte Ten'Up.
+  - Le jeune doit avoir un compte Ten'Up.
   - On règle la totalité de l'inscription en une ou trois échéances.
 
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Inscrivez-vous sur Ten'Up</a>
@@ -48,6 +47,7 @@ Les **modalités de règlement** acceptées sont les suivantes.
 
 - en espèces en une échéance ;
 - en un maximum de trois chèques datés de l'inscription ;
+
 - en ligne avec [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis) en une ou trois échéances ;
 
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis">Inscrivez-vous sur HelloAsso</a>
