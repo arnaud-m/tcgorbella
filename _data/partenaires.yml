@@ -18,11 +18,6 @@
   website: https://www.tecnifibre.com/
   alt: Technifibre
 
-- name: Akorimmo
-  img: akorimmo.png
-  website: https://www.akorimmo.com/
-  alt: Akorimmo
-
 - name: La Fenêtre Niçoise Fenêtrier VEKA
   img: la-fenetre-nicoise.png
   website: http://la-fenetre-nicoise.fr/
@@ -32,3 +27,13 @@
   img: mobisport-concept.webp
   website: https://www.mobisportconcept.com/
   alt: Mobisport Concept
+
+- name: Mozart Autos
+  img: mazda.png
+  website: https://www.mozart-autos.com/
+  alt: Mozart Autos
+
+- name: JA Immobilier Autos
+  img: ja-immobilier.png
+  website: https://www.jaimmobilier.com/
+  alt: JA Immobilier
