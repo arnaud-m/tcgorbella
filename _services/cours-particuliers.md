@@ -11,23 +11,20 @@ Thomas est moniteur de tennis diplômé d'état et titulaire d'une licence STAPS
 Il donne les leçons et cours en français, anglais, et espagnol.
 Il vous assiste aussi pour la mise en relation avec des joueurs de même niveau et pour la recherche de partenaires.
 
-Contactez directement Thomas pour tout renseignement complémentaire.
-
+Contactez directement [Thomas](mailto:thomas@tcgorbella.fr) pour tout renseignement complémentaire.
 
 Le **cours individuel** est idéal pour travailler un aspect précis du tennis (coup droit, revers, service, volée, etc) et progresser significativement sur des objectifs personnels.
 
 | Cours individuel | 1 heure | 5 heures | 10 heures |
 |------------------|:-------:|:--------:|:---------:|
-| **Adhérent**     | 33€     | 160€     | 300€      |
-| **Non adhérent** | 35€     | 170€     | 325€      |
+| **Tarif unique** | 35€     | 170€     | 325€      |
 
 
 Le **cours à deux** fonctionne sur la même base que le cours individuel, progressez rapidement avec un ou une partenaire de votre choix.
 
-| Cours à deux     | 1 heure      | 5 heures     | 10 heures    |
-|------------------|:------------:|:------------:|:------------:|
-| **Adhérent**     | 20€ / pers.  | 95€ / pers.  | 185€ / pers. |
-| **Non adhérent** | 22,5€/ pers. | 105€ / pers. | 200€/ pers.  |
+| Cours à deux     | 1 heure      | 5 heures     | 10 heures   |
+|------------------|:------------:|:------------:|:-----------:|
+| **Tarif unique** | 22,5€/ pers. | 105€ / pers. | 200€/ pers. |
 
 
 Le **cours collectif** fonctionne avec un groupe de 4 à 8 personnes réparties sur un ou plusieurs terrains.
