@@ -33,9 +33,11 @@ Un [ticket d'invitation](/services/location/) est offert pour chaque inscription
 | **Team compétition 2 x 1h30**      | &#10004;   | &#10004;    | 477€        | 23€     | **500€** |
 
 Pour être retenue, **l’inscription doit être complète**, à savoir :
-- une [fiche d’inscription](/assets/ecole-de-tennis/TCG-Fiche-Inscription-Ecole.pdf) complétée (obligatoire pour les nouveaux) ;
-- pour les mineurs, le dispositif d'attestation pour le questionnaire de santé QS-SPORT Cerfa N°15699*01 ([questionnaire](/assets/ecole-de-tennis/attestation-ou-certificat-medical.pdf)) est en vigueur ;
-- la cotisation annuelle est payée en totalité avec la possibilité de régler en une à trois échéances. Les modalités de règlement acceptées sont les suivantes :
+1. une [fiche d’inscription](/assets/ecole-de-tennis/TCG-Fiche-Inscription-Ecole.pdf) complétée ;
+2. Le dispositif de [questionnaire](/assets/ecole-de-tennis/questionnaire-2024.pdf) relatif à l'état de santé du sportif mineur est en vigueur.
+  - Si toutes les réponses sont négatives, alors il faut fournir une [attestation parentale](/assets/ecole-de-tennis/attestation-mineur.pdf).
+  - Sinon (il y a au moins une réponse positive) il faut fournir un [certificat médical](/assets/ecole-de-tennis/modele-certificat-medical.pdf).
+3. la cotisation annuelle est payée en totalité avec la possibilité de régler en une à trois échéances. Les modalités de règlement acceptées sont les suivantes :
   - en ligne avec [Tenup](https://tenup.fft.fr/club/62060274/offres), le plus simple pour le club ;
   - en ligne avec [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis) ;
   - en espèces ;
