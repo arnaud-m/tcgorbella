@@ -49,8 +49,8 @@ Le carnet permet de réserver plus tôt et encore plus simplement que la locatio
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Acheter un carnet de tickets sur Ten'Up</a>
 {: style="text-align: center;"}
 
-Nous exigeons une [licence](https://www.fft.fr/jouer/se-licencier/choisir-sa-licence) pour l'achat d'un carnet de tickets.
-Les vacanciers pourront se contenter d'une [licence découverte](https://www.fft.fr/la-licence-decouverte), mais nous encourageons les autres à prendre une [licence multi-raquettes](https://www.fft.fr/la-licence-multi-raquettes).
+Nous exigeons une [licence](https://www.fft.fr/la-federation/licences) pour l'achat d'un carnet de tickets.
+Les vacanciers pourront se contenter d'une [licence découverte](https://www.fft.fr/la-federation/licences), mais nous encourageons les autres à prendre une [licence multi-raquettes](https://www.fft.fr/la-federation/licences).
 La prise d'une licence multi-raquettes est une forme de soutien pour le club et vous offre de nombreux avantages.
 
 ### Conditions d'utilisation

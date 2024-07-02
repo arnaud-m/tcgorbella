@@ -15,29 +15,29 @@ L'adhésion est valable du 1er septembre au 31 août suivant.\
 
 Les adhérents du club sont **obligatoirement licenciés à la Fédération Française de Tennis**.
 Les adhérents bénéficient, à ce titre, d’une assurance les couvrant lors d’un accident ainsi que d'autres avantages.
-Il est possible de prendre la [licence multi-raquettes](https://www.fft.fr/la-licence-multi-raquettes) seule, sans adhérer au club.
+Il est possible de prendre la [licence multi-raquettes](https://www.fft.fr/la-federation/licences) seule, sans adhérer au club.
 
 | Licence Multi-raquettes | Prix |
 |------------------------|:----:|
-| Jeune 6 ans et moins   | 12€  |
-| Jeune de 7 à 18 ans    | 22€  |
-| Adulte                 | 32€  |
+| Jeune 6 ans et moins   | 13€  |
+| Jeune de 7 à 18 ans    | 23€  |
+| Adulte                 | 33€  |
 
 **La licence n'est pas incluse dans les tarifs ci-dessous.**
 
-**La cotisation annuelle offre un accès aux terrains tous les jours de l'année.**<br/>
+**La cotisation annuelle offre un accès aux terrains sur réservation tous les jours de l'année.**<br/>
 Un tarif réduit est proposé aux moins de 25 ans, plus de 80 ans, classés en en seconde série, ou conjoints d'adhérent.
 Un carnet de 5 tickets pour jouer avec des partenaires de votre choix est offert avec la cotisation annuelle.
 
 | Cotisation annuelle | Prix   |
 |---------------------|:------:|
-| Plein tarif         | 318€   |
-| Tarif réduit        | 168€   |
+| Plein tarif         | 327€   |
+| Tarif réduit        | 177€   |
 
-**La carte jeune offre un accès aux terrains tous les jours de 10h à 18h.**<br/>
+**La carte jeune offre un accès aux terrains sur réservation tous les jours de 10h à 18h.**<br/>
 Elle est réservée aux jeunes inscrits à l'école de tennis l'année en cours.
 Elle est incluse dans les offres de l'école de tennis avec deux cours collectifs par semaine.
-Les parents peuvent acheter un [carnet de tickets](/services/location/) ou adhérer au club pour jouer avec leurs enfants.
+Les parents peuvent acheter des [tickets](/services/location/) ou adhérer au club pour jouer avec leurs enfants.
 
 | Carte jeune  | Prix |
 |--------------|:----:|
