@@ -39,14 +39,14 @@ Pour être retenue, **l’inscription doit être complète**, à savoir :
   - Sinon (il y a au moins une réponse positive) il faut fournir un [certificat médical](/assets/ecole-de-tennis/modele-certificat-medical.pdf).
 3. la cotisation annuelle est payée en totalité avec la possibilité de régler en une à trois échéances. Les modalités de règlement acceptées sont les suivantes :
   - en ligne avec [Tenup](https://tenup.fft.fr/club/62060274/offres), le plus simple pour le club ;
-  - en ligne avec [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis) ;
+  - en ligne avec [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis-2024-2025) ;
   - en espèces ;
   - en un maximum de trois chèques datés de l'inscription ;
   - avec d'autres titres de paiements ([Chèques-Vacances](https://www.ancv.com/), [Coupons Sport](https://coupons-sport.nice.fr/fr), [Pass'Sport](https://www.pass.sports.gouv.fr/), etc).
 
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Inscription sur Ten'Up</a>
 &emsp;
-<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis">Inscription sur HelloAsso</a>
+<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis-2024-2025">Inscription sur HelloAsso</a>
 {: style="text-align: center;"}
 
 
@@ -70,9 +70,8 @@ L'inscription entraîne l'acceptation sans réserve et le respect du règlement 
  - Laissez-nous un chèque de caution correspondant du montant total des titres de paiement.
  - Revenez avant le mois de janvier avec vos titres de paiement pour procéder au règlement.
 
-
 #### Comment faire si je ne n'ai pas assez de chèques ?
  - Laissez-nous un seul chèque de caution avec la totalité du paiement.
- - Revenez avant le mois d'octobre pour procéder au règlement.
+ - Revenez avant le mois d'octobre pour procéder au paiement.
 
 {% endcomment %}
