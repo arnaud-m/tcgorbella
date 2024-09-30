@@ -55,3 +55,4 @@ exclude:
   - LICENSE
   - README.md
   - Makefile
+  - check-link-w3c.sh
