@@ -29,10 +29,10 @@ Il est possible de prendre la [licence multi-raquettes](https://www.fft.fr/la-fe
 Un tarif réduit est proposé aux moins de 25 ans, plus de 80 ans, classés en en seconde série, ou conjoints d'adhérent.
 Un carnet de 5 tickets pour jouer avec des partenaires de votre choix est offert avec la cotisation annuelle.
 
-| Cotisation annuelle | Prix   |
-|---------------------|:------:|
-| Plein tarif         | 327€   |
-| Tarif réduit        | 177€   |
+| Cotisation annuelle | Prix sans licence |
+|---------------------|:-----------------:|
+| Plein tarif         | 327€              |
+| Tarif réduit        | 177€              |
 
 **La carte jeune offre un accès aux terrains sur réservation tous les jours de 10h à 18h.**<br/>
 Elle est réservée aux jeunes inscrits à l'école de tennis l'année en cours.

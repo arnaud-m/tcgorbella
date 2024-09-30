@@ -3,7 +3,7 @@ title: "École de tennis"
 # date: 2019-01-28T15:15:26+10:00
 weight: 4
 ---
-L’école de tennis est ouverte aux jeunes de 4 à 17 ans du 1er septembre au 30 juin suivant pendant les périodes scolaires, du mini-tennis jusqu'à la compétition.
+L’école de tennis est ouverte aux jeunes de 4 à 18 ans du 1er septembre au 30 juin suivant pendant les périodes scolaires, du mini-tennis jusqu'à la compétition.
 <!--more-->
 
 Les jeunes sont **obligatoirement [licenciés](https://www.fft.fr/la-federation/licences) à la Fédération Française de Tennis**.
