@@ -35,11 +35,11 @@ bodyClass: "page-home"
                 {% else  %}
                 {% assign service-class = "service-content service-alerted-content" %}
                 {% endif  %}
-          <div class="{{ service-class }}">
+          <div class=""{{ service-class }}">
             <h2 class="service-title">
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
             </h2>
-            <p>{{ service.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+            <p>{{ service.excerpt | markdownify | strip_html | truncate: 200 }} <a href="{{ service.url | relative_url }}">Lire la suite ...</a></p>
           </div>
         </div>
       </div>
