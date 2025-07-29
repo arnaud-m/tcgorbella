@@ -15,8 +15,8 @@
     weight: 2
 },
 {
-    title: "Maxime Penel",
-    jobtitle: "Éducateur sportif",
+    title: "Kourosh Daragahi",
+    jobtitle: "Assistant Moniteur",
     promoted: "true",
     weight: 3
 },
@@ -25,6 +25,18 @@
     jobtitle: "Assistant Moniteur",
     promoted: "true",
     weight: 4
+},
+    {
+    title: "Olivier Suavet",
+    jobtitle: "Éducateur en formation",
+    promoted: "true",
+    weight: 5
+},
+    {
+    title: "Maxence Logiudice",
+    jobtitle: "Initiateur fédéral en formation",
+    promoted: "true",
+    weight: 6
 },
     {
     title: "Arnaud Malapert",
@@ -37,11 +49,6 @@
     jobtitle: "Trésorier",
     email: "sylvain@tcgorbella.fr",
     weight: 12
-},
-    {
-    title: "Henry Corre",
-    jobtitle: "Bureau",
-    weight: 14
 },
     {
     title: "Philippe Huot",
