@@ -16,8 +16,15 @@ Ils peuvent, à ce titre, participer à des compétitions et bénéficient d’u
 
 Les jeunes suivent **un ou deux cours collectifs par semaine** selon la formule choisie.
 Ils sont répartis en groupe de 4 à 6 enfants constitués par âge et niveau en début d'année scolaire.
-Les séances ont lieu du lundi au vendredi de 17h à 20h, et le mercredi de 9h à 20h.
-L'affectation d'un jeune à un groupe avec un jour et un horaire est déterminée lors de l'inscription selon vos disponibilités et celles du club. \
+Les séances ont lieu du lundi au vendredi de 17h à 19h30, le mercredi de 9h à 19h30, et le samedi de 9h à 12h.
+L'affectation d'un jeune à un groupe avec un jour et un horaire est déterminée lors de l'inscription selon vos disponibilités et celles du club.
+
+| Jour                          | Horaires  |
+|-------------------------------|:---------:|
+| Lundi, Mardi, Jeudi, Vendredi | 17h-19h30 |
+| Mercredi                      | 9h-19h30  |
+| Samedi                        | 9h-12h    |
+
 La [carte jeune](/services/adhesion/) donne un accès aux terrains en journée de 10h à 18h toute l'année.
 Elle est incluse dans toutes les offres avec deux cours par semaine, et peut être achetée sinon.\
 Un [ticket d'invitation](/services/location/) est offert pour chaque inscription à utiliser avec un compte [Tenup](https://tenup.fft.fr/).
@@ -33,20 +40,21 @@ Un [ticket d'invitation](/services/location/) est offert pour chaque inscription
 | **Team compétition 2 x 1h30**      | &#10004;   | &#10004;    | 477€        | 23€     | **500€** |
 
 Pour être retenue, **l’inscription doit être complète**, à savoir :
-1. une [fiche d’inscription](/assets/ecole-de-tennis/TCG-Fiche-Inscription-Ecole.pdf) complétée ;
+1. Une [fiche d’inscription](/assets/ecole-de-tennis/TCG-Fiche-Inscription-Ecole.pdf) complétée.
 2. Le dispositif de [questionnaire](/assets/ecole-de-tennis/questionnaire-2024.pdf) relatif à l'état de santé du sportif mineur est en vigueur.
   - Si toutes les réponses sont négatives, alors il faut fournir une [attestation parentale](/assets/ecole-de-tennis/attestation-mineur.pdf).
   - Sinon (il y a au moins une réponse positive) il faut fournir un [certificat médical](/assets/ecole-de-tennis/modele-certificat-medical.pdf).
-3. la cotisation annuelle est payée en totalité avec la possibilité de régler en une à trois échéances. Les modalités de règlement acceptées sont les suivantes :
+3. **La cotisation annuelle est payée en totalité avec la possibilité de régler en une à trois échéances.** Les modalités de règlement acceptées sont les suivantes :
   - en ligne avec [Tenup](https://tenup.fft.fr/club/62060274/offres), le plus simple pour le club ;
-  - en ligne avec [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis-2024-2025) ;
+  - en ligne avec [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis-2025-2026) ;
+  - par carte bancaire ;
   - en espèces ;
   - en un maximum de trois chèques datés de l'inscription ;
   - avec d'autres titres de paiements ([Chèques-Vacances](https://www.ancv.com/), [Coupons Sport](https://coupons-sport.nice.fr/fr), [Pass'Sport](https://www.pass.sports.gouv.fr/), etc).
 
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Inscription sur Ten'Up</a>
 &emsp;
-<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis-2024-2025">Inscription sur HelloAsso</a>
+<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis-2025-2026">Inscription sur HelloAsso</a>
 {: style="text-align: center;"}
 
 
