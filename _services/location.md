@@ -43,8 +43,6 @@ Le carnet permet de réserver plus tôt et encore plus simplement que la locatio
 | Carnet     | Prix / Carnet |
 |------------|:-------------:|
 | 5 tickets  | 50€           |
-| 10 tickets | 95€           |
-
 
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Acheter un carnet de tickets sur Ten'Up</a>
 {: style="text-align: center;"}
