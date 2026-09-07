@@ -6,7 +6,7 @@ SYNC=rclone
 SOPTS=-v sync
 
 SITE=./_site/
-MINIFY=gominify
+MINIFY=minify
 MOPTS=--recursive --output ${SITE}
 HTMOPTS=--html-keep-special-comments --html-keep-default-attrvals --html-keep-document-tags --html-keep-end-tags --html-keep-quotes
 
