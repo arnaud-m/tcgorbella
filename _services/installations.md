@@ -22,9 +22,11 @@ Il est expressément demandé d'éteindre les lumières et de bien fermer le por
 
 - **La réservation des terrains pour les adhérents et les titulaires de tickets se fait sur [Ten'Up](https://tenup.fft.fr/).**
 - **La location horaire des terrains pour les non-adhérents se fait sur [Ten'Up](https://tenup.fft.fr/location-horaire) ou [Anybuddy](https://www.anybuddyapp.com).**
+- **Le court 3 est un court de simple uniquement.**
 - La durée d'occupation des courts est fixée à 1h avec possibilité de prolonger plus longtemps tant que personne ne se présente avec une réservation pour prendre la suite.
 - La réservation est possible jusqu'au début du créneau horaire.
 - Le délai de suppression d'une réservation est de 2 heures avant le début du créneau.
+- Le délai de suppression d'une location est de 4 heures avant le début du créneau.
 - **Les joueurs doivent remettre le terrain en état à la fin de la partie.**
 
 ## Entretien des terrains
@@ -34,7 +36,6 @@ Les joueurs doivent obligatoirement procéder à la remise en état du terrain e
 - Passage du tapis  ;
 - Balayage des lignes ;
 - Arrosage (sauf en hiver ou instruction contraire) ;
-- Récuperation des cartes au tableau ;
 - Extinction des lumières.
 
 

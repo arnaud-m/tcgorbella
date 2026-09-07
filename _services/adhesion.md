@@ -10,7 +10,7 @@ Notre club est le lieu idéal pour les amateurs de tennis de tous niveaux, du d�
 <!--more-->
 
 L'adhésion est valable du 1er septembre au 31 août suivant.\
-**L'adhésion s'effectue par [Ten'Up](https://tenup.fft.fr/club/62060274/offres), sauf exception.**
+**L'adhésion s'effectue par [Ten'Up](https://tenup.fft.fr/club/62060274/offres), sauf exceptionnellement pour nos seniors.**
 
 
 Les adhérents du club sont **obligatoirement licenciés à la Fédération Française de Tennis**.
@@ -46,9 +46,13 @@ Les parents peuvent acheter des [tickets](/services/location/) ou adhérer au cl
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Adhésion au TC Gorbella</a>
 {: style="text-align: center;"}
 
+{% comment %}
+
 Pour être retenue, **l’adhésion doit être complète**, à savoir :
 - une [fiche d’inscription](/assets/adhesion/TCG-Fiche-Adhesion-Club.pdf) complétée (obligatoire pour les nouveaux adhérents) ;
 - ainsi que le règlement de la cotisation annuelle selon modalités demandées par le club.
+
+{% endcomment %}
 
 la Fédération Française de Tennis a validé la suppression du certificat médical, ainsi que des attestations, dans le cadre de la délivrance d'une licence à un pratiquant majeur (voir [ici](https://www.fft.fr/actualites/licences-2024-les-principaux-changements-0)).
 Pour les mineurs, le dispositif d'attestation pour le questionnaire de santé QS-SPORT Cerfa N°15699*01 ([questionnaire](/assets/adhesion/attestation-ou-certificat-medical.pdf)) reste en vigueur.

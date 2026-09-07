@@ -16,14 +16,14 @@ Ils peuvent, à ce titre, participer à des compétitions et bénéficient d’u
 
 Les jeunes suivent **un ou deux cours collectifs par semaine** selon la formule choisie.
 Ils sont répartis en groupe de 4 à 6 enfants constitués par âge et niveau en début d'année scolaire.
-Les séances ont lieu du lundi au vendredi de 17h à 19h30, le mercredi de 9h à 19h30, et le samedi de 9h à 12h.
+Les séances ont lieu du lundi au vendredi à partir de 16h, et le mercredi et samedi à partir de 9h.
 L'affectation d'un jeune à un groupe avec un jour et un horaire est déterminée lors de l'inscription selon vos disponibilités et celles du club.
 
 | Jour                          | Horaires  |
 |-------------------------------|:---------:|
-| Lundi, Mardi, Jeudi, Vendredi | 17h-19h30 |
+| Lundi, Mardi, Jeudi, Vendredi | 16h-19h30 |
 | Mercredi                      | 9h-19h30  |
-| Samedi                        | 9h-12h    |
+| Samedi                        |  9h-12h   |
 
 La [carte jeune](/services/adhesion/) donne un accès aux terrains en journée de 10h à 18h toute l'année.
 Elle est incluse dans toutes les offres avec deux cours par semaine, et peut être achetée sinon.\
@@ -46,7 +46,7 @@ Pour être retenue, **l’inscription doit être complète**, à savoir :
   - Sinon (il y a au moins une réponse positive) il faut fournir un [certificat médical](/assets/ecole-de-tennis/modele-certificat-medical.pdf).
 3. **La cotisation annuelle est payée en totalité avec la possibilité de régler en une à trois échéances.** Les modalités de règlement acceptées sont les suivantes :
   - en ligne avec [Tenup](https://tenup.fft.fr/club/62060274/offres), le plus simple pour le club ;
-  - en ligne avec [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis-2025-2026) ;
+  - en ligne avec [HelloAsso](https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis-2026-2027) ;
   - par carte bancaire ;
   - en espèces ;
   - en un maximum de trois chèques datés de l'inscription ;
@@ -54,8 +54,9 @@ Pour être retenue, **l’inscription doit être complète**, à savoir :
 
 <a class="button button-primary" style="text-decoration: none; text-align: center" href="https://tenup.fft.fr/club/62060274/offres">Inscription sur Ten'Up</a>
 &emsp;
-<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis-2025-2026">Inscription sur HelloAsso</a>
+<a class="button button-primary" style="text-decoration: none; text-align: center" href="https://www.helloasso.com/associations/tennis-club-gorbella/adhesions/ecole-de-tennis-2026-2027">Inscription sur HelloAsso</a>
 {: style="text-align: center;"}
+
 
 
 En aucun cas une inscription ne pourra être remboursée, toute ou partie, pour quelque raison que ce soit (arrêt maladie, blessures, départ).
